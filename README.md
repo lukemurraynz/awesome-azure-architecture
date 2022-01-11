@@ -134,7 +134,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
 
-- [Azure Architecture - Design Principles and Lessions Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
+- [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure DevOps and creating your Cloud Adoption Framework ](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 
 ### Community Tools
@@ -142,6 +142,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
+- [Azure Optimization Engine](https://github.com/helderpinto/AzureOptimizationEngine)
 - [The Azure Readiness Checklist](https://azurechecklist.com/)
 
 ### Community Repositories
