@@ -65,6 +65,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure IP advantage](https://azure.microsoft.com/en-us/overview/azure-ip-advantage/)
 - [Azure Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [Azure VMWware Solution](https://azure.microsoft.com/en-us/services/azure-vmware/)
+- [Visual Studio subscriptions](https://azure.microsoft.com/en-us/services/developer-tools/visual-studio-subscriptions/)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/)
 - [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging/)
 - [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/)
