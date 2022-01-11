@@ -83,6 +83,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Cloud Training Events](https://www.microsoft.com/en-au/business/learn/cloud-training-events/)
 - [Preparing for Azure advanced specializations](https://partner.microsoft.com/en-us/training/assets/collection/preparing-for-azure-advanced-specializations#/)
 - [Learn TV](https://docs.microsoft.com/en-us/learn/tv/)
+- [Inside Azure Datacenter Architecture with Mark Russinovich](https://www.youtube.com/watch?v=69PrhWQorEM)
 
 ### Official Announcements and Articles
 
