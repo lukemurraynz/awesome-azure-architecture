@@ -5,7 +5,7 @@
 ![Awesome Azure Architecture](./Awesome_Azure_Architecture.png)
 
 A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts.
-This list contains anything that can help with your _Microsoft Azure architecture_ and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
+This list contains anything that can help with your **Microsoft Azure architecture** and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
 
 > Community [contributions](contributing.md) are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
 
