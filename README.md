@@ -49,7 +49,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Azure Governance](https://docs.microsoft.com/en-us/azure/governance/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-- [Azure Architecture Diagrams](https://docs.microsoft.com/en-us/azure/architecture/browse/)
+- [Azure Architecture reference architecture](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 - [Azure application architecture fundamentals](https://docs.microsoft.com/en-us/azure/architecture/guide/)
 - [Best practices in cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
