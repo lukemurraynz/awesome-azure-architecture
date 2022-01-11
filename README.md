@@ -72,6 +72,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/)
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/)
+- [Mainframe rehosting on Azure virtual machines](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview)
 
 ### Official Videos
 
