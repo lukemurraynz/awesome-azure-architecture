@@ -1,6 +1,6 @@
 # AWESOME-Azure-Architecture
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![Awesome Azure Architecture](./Awesome_Azure_Architecture.png)
 
@@ -70,7 +70,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/)
 - [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging/)
 - [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/)
-
+- [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
 
 ### Official Videos
 
@@ -134,6 +134,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Virtual machines selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/)
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
+- [Azure Updates](https://aka.ms/azureroadmap)
 
 ### Official Forums and Feedback
 
