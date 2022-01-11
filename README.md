@@ -34,7 +34,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 > Links below are from official Microsoft sources, websites, and channels.
 
-### Official-MSLearn
+### Official MSLearn
 
 [Back To Top](#Table-Of-Contents)
 
