@@ -40,6 +40,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Microsoft Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
+- [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 - [Describe core Azure architectural components](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
 
 ### Official Docs
@@ -208,6 +209,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
 - [Docs Update Tracker](https://docsupdatetracker.net/index.html)
+- [Terraform](https://www.terraform.io/)
+- [Public Cloud Comparison](https://comparecloud.in/)
 
 ### Community Repositories
 
