@@ -30,7 +30,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
 
-
 ## Official
 
 > Links below are from official Microsoft sources, websites, and channels.
@@ -80,6 +79,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Reactor](https://docs.microsoft.com/en-us/shows/reactor/)
 - [Code Stories](https://docs.microsoft.com/en-us/shows/CodeStories/)
 - [Cloud Training Events](https://www.microsoft.com/en-au/business/learn/cloud-training-events/)
+- [Preparing for Azure advanced specializations](https://partner.microsoft.com/en-us/training/assets/collection/preparing-for-azure-advanced-specializations#/)
+- [Learn TV](https://docs.microsoft.com/en-us/learn/tv/)
 
 ### Official Announcements and Articles
 
