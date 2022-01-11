@@ -116,6 +116,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
 - [Microsoft Datacenter Migration Program Kit (DCM Kit)](https://github.com/microsoft/dcmkit)
 - [Azure Status](https://status.azure.com/en-us/status)
+- [Azure Stack HCI Solutions](https://hcicatalog.azurewebsites.net/#/?ProductOptimizedFor=Branch+office+and+edge)
 
 ### Official Forums and Feedback
 
