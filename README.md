@@ -1,5 +1,5 @@
 # AWESOME-Azure-Architecture
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Markdown Link Checker](https://github.com/lukemurraynz/awesome-azure-policy/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/lukemurraynz/awesome-azure-architecture/actions/workflows/markdown-link-checker.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 ![Awesome Azure Policy](./Awesome_Azure_Architecture.png)
 
@@ -17,6 +17,7 @@ This list contains anything that can help with your Microsoft Azure architecture
    - [Announcements and Articles](#Official-Announcements-and-Articles)
    - [Repositories and Tools](#Official-Repositories-and-Tools)
    - [Forums and Feedback](#Official-Forums-and-Feedback)
+   - [Official Podcasts](#Official-Podcasts)
 - [Community](#Community)
    - [Videos](#Community-Videos)
    - [Podcasts](#Community-Podcasts)
@@ -102,6 +103,11 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/forum/79b1327d-d925-ec11-b6e6-000d3a4f06a4)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)
 
+### Official Podcasts
+[Back To Top](#Table-Of-Contents)
+
+- [The Azure for Executives Podcast](https://azure.microsoft.com/en-us/industries/podcast/)
+
 ## Community
 
 > Links below are from community sources, websites, and channels.
@@ -109,16 +115,16 @@ This list contains anything that can help with your Microsoft Azure architecture
 ### Community Videos
 [Back To Top](#Table-Of-Contents)
 
-
 - [Regain Control with Azure Governance](https://www.youtube.com/watch?v=M2y0QsHLeSs)
-
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
 
-
-- [109 - Azure Policy as Code with Jesse Loudon](https://ctrlaltazure.com/episodes/109-azure-policy-as-code)
-
+- [The Azure Security Podcast](https://azsecuritypodcast.azurewebsites.net/)
+- [Azure Centric Podcast](https://open.spotify.com/show/0r52YLLXq7fdV1xE5la8gq?autoplay=true)
+- [The Azure Podcast](https://azpodcast.azurewebsites.net/)
+- [Azure Lunch](https://podcasts.apple.com/us/podcast/azure-lunch/id1436427476)
+- [Sarah Leans Podcast](https://open.spotify.com/show/34QAAvMLSYN09eOAu3j2b0)
 
 ### Community Books
 [Back To Top](#Table-Of-Contents)
