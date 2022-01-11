@@ -71,6 +71,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging/)
 - [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/)
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
+- [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/)
 
 ### Official Videos
 
