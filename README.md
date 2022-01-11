@@ -233,6 +233,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Docs Update Tracker](https://docsupdatetracker.net/index.html)
 - [Terraform](https://www.terraform.io/)
 - [Public Cloud Comparison](https://comparecloud.in/)
+- [Azure Services Periodic Table](https://azureservices.io/)
 
 ### Community Repositories
 
