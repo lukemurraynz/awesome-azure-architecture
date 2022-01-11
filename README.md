@@ -223,6 +223,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Resource Inventory](https://github.com/azureinventory/ARI)
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
+- [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
 
 ### Community Forums
 
