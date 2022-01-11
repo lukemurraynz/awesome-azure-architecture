@@ -217,6 +217,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Citadel](https://azurecitadel.com/)
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Microsoft Azure - Center for Internet Security](https://www.cisecurity.org/benchmark/azure/)
+- [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 
 ### Community Tools
 
