@@ -61,6 +61,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure products](https://azure.microsoft.com/en-us/services/)
 - [Azure Migrate](https://azure.microsoft.com/en-us/services/azure-migrate/)
 - [Azure for Partners](https://partner.microsoft.com/en-us/solutions/azure)
+- [Microsoft Azure Immersion Workshops](https://partner.microsoft.com/en-nz/solutions/azure/aiw)
 
 ### Official Videos
 
@@ -187,6 +188,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Network Security](https://github.com/Azure/Azure-Network-Security)
 - [The Azure Readiness Checklist](https://azurechecklist.com/)
 - [MSLab](https://github.com/microsoft/MSLab)
+- [Azure Charts](https://azurecharts.com/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 
