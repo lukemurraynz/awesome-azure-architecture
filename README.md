@@ -66,6 +66,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure VMWware Solution](https://azure.microsoft.com/en-us/services/azure-vmware/)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/)
 - [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging/)
+- [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/)
 
 
 ### Official Videos
