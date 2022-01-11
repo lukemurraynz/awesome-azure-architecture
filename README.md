@@ -104,6 +104,7 @@ This list contains anything that can help with your *Microsoft Azure architectur
 - [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
 - [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
+- [Microsoft Datacenter Migration Program Kit (DCM Kit)](https://github.com/microsoft/dcmkit)
 
 
 ### Official Forums and Feedback
