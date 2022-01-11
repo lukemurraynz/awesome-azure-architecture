@@ -105,7 +105,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf)
 - [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
-
+- [Rethinking Enterprise Storage](https://download.microsoft.com/download/8/5/6/85677038-09DE-4F20-AECD-C7A44B5A7E1E/679603ebook.pdf)
+- [Migration SQL Server databases to Azure](https://download.microsoft.com/download/9/8/C/98C3E3C8-E016-443D-BE22-CFEB187DAFFA/Microsoft_Press_eBook_Migrating_SQL_Server_Databases_to_Azure_8.5x11.pdf)
+- [Cloud Migration Simplified](https://azure.microsoft.com/en-us/resources/cloud-migration-simplified/)
+- [Get up and running with Kubernetes](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/)
+- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
+- [Migrating Linux to Microsoft Azure](https://azure.microsoft.com/en-us/resources/migrating-linux-to-microsoft-azure/)
 
 ### Official Repositories and Tools
 
@@ -148,7 +153,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Updates](https://aka.ms/azureroadmap)
 - [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 - [Data decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
-
 
 ### Official Forums and Feedback
 
