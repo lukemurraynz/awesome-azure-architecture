@@ -80,6 +80,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Cloud Adoption Framework landing zones for Terraform - Starter template](https://github.com/Azure/caf-terraform-landingzones-starter)
 - [FastTrack for Azure - Foundations](https://github.com/Azure/fta-azurefoundations)
 - [Solution Architecture Questions](https://github.com/Azure/Solution-Architecture-Questions)
+- [Common Azure Bicep and ARM Modules Library](https://github.com/Azure/ResourceModules)
 - [FastTrack for Azure - Architectural Review](https://github.com/Azure/fta-architecturalreview)
 - [FastTrack for Azure - Networking](https://github.com/Azure/fta-networking)
 - [FastTrack for Azure - Governance](https://github.com/Azure/fta-governance)
