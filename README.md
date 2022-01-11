@@ -58,6 +58,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/)
 - [Azure Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
 - [Azure architecture icons](https://docs.microsoft.com/en-us/azure/architecture/icons/)
+- [Azure products](https://azure.microsoft.com/en-us/services/)
+- [Azure Migrate](https://azure.microsoft.com/en-us/services/azure-migrate/)
 
 ### Official Videos
 
@@ -113,6 +115,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
 - [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
 - [Microsoft Datacenter Migration Program Kit (DCM Kit)](https://github.com/microsoft/dcmkit)
+- [Azure Status](https://status.azure.com/en-us/status)
 
 ### Official Forums and Feedback
 
