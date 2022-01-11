@@ -137,6 +137,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 - [Azure Updates](https://aka.ms/azureroadmap)
+- [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+- [Data decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
+
 
 ### Official Forums and Feedback
 
@@ -192,6 +195,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure DevOps and creating your Cloud Adoption Framework ](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 - [Azure Citadel](https://azurecitadel.com/)
+- [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 
 ### Community Tools
 
