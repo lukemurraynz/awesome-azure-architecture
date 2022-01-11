@@ -134,6 +134,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Architecture - Design Principles and Lessions Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure DevOps and creating your Cloud Adoption Framework ](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 
 ### Community Tools
