@@ -78,6 +78,8 @@ This list contains anything that can help with your *Microsoft Azure architectur
 
 - [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone)
 - [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator)
+- [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale)
+- [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ)
 - [Cloud Adoption Framework landing zones for Terraform - Starter template](https://github.com/Azure/caf-terraform-landingzones-starter)
 - [FastTrack for Azure - Foundations](https://github.com/Azure/fta-azurefoundations)
 - [Solution Architecture Questions](https://github.com/Azure/Solution-Architecture-Questions)
@@ -91,6 +93,7 @@ This list contains anything that can help with your *Microsoft Azure architectur
 - [FastTrack for Azure - Landing Zone](https://github.com/Azure/fta-landingzone)
 - [FastTrack for Azure - Vision AI Session Resources](https://github.com/Azure/fta-ai-learning)
 - [FastTrack for Azure - Azure Live Azure Purview](https://github.com/Azure/fta-azurepurview)
+- [FastTrack for Azure - Azure Live - How to deploy Azure services and infrastructure. Leverage Azure Pipeline for CI/CD](https://github.com/Azure/fta-live-iac)
 - [FastTrack for Azure - Monitoring](https://github.com/Azure/fta-monitoring)
 - [FastTrack for Azure - Windows Virtual Desktop](https://github.com/Azure/fta-windowsvirtualdesktop)
 - [FastTrack for Azure - Identity](https://github.com/Azure/fta-identity)
@@ -98,6 +101,9 @@ This list contains anything that can help with your *Microsoft Azure architectur
 - [FastTrack for Azure - Azure Marketplace](https://github.com/Azure/fta-marketplace-tech)
 - [FastTrack for Azure - FTA Live for Azure Sentinel](https://github.com/Azure/FTA-APACSentinel)
 - [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/)
+- [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
+- [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
+- [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
 
 
 ### Official Forums and Feedback
@@ -118,6 +124,7 @@ This list contains anything that can help with your *Microsoft Azure architectur
 ### Community Videos
 [Back To Top](#Table-Of-Contents)
 
+- [Microsoft Azure Master Class](https://www.youtube.com/watch?v=rZcyDHIYpO0&list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Regain Control with Azure Governance](https://www.youtube.com/watch?v=M2y0QsHLeSs)
 
 ### Community Podcasts
@@ -146,6 +153,7 @@ This list contains anything that can help with your *Microsoft Azure architectur
 - - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure DevOps and creating your Cloud Adoption Framework ](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 
+
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
 
@@ -154,12 +162,23 @@ This list contains anything that can help with your *Microsoft Azure architectur
 - [Azure Optimization Engine](https://github.com/helderpinto/AzureOptimizationEngine)
 - [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
+- [Azure Network Security](https://github.com/Azure/Azure-Network-Security)
 - [The Azure Readiness Checklist](https://azurechecklist.com/)
+- [MSLab](https://github.com/microsoft/MSLab)
+- [Azure Speed](https://www.azurespeed.com/Azure/Latency)
+- [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
 
 - [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy)
+- [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
+- [Azure Stack HCI Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
+- [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
+- [Azure Resource Inventory](https://github.com/azureinventory/ARI)
+- [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
+
+
 
 ### Community Forums
 [Back To Top](#Table-Of-Contents)
