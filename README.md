@@ -79,6 +79,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 - [Data decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
 - [Design for reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist)
+- [Serverless design examples](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples)
 
 ### Official Videos
 
