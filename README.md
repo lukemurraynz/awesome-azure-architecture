@@ -182,6 +182,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 - [Azure Optimization Engine](https://github.com/helderpinto/AzureOptimizationEngine)
 - [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure)
+- [Continuous Cloud Optimization Power BI Dashboards Project](https://github.com/Azure/ccodashboard)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [Azure Network Security](https://github.com/Azure/Azure-Network-Security)
 - [The Azure Readiness Checklist](https://azurechecklist.com/)
