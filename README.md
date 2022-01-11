@@ -144,6 +144,8 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 - [Azure Optimization Engine](https://github.com/helderpinto/AzureOptimizationEngine)
+- [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure)
+- [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [The Azure Readiness Checklist](https://azurechecklist.com/)
 
 ### Community Repositories
