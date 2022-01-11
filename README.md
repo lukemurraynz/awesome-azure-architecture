@@ -4,7 +4,7 @@
 ![Awesome Azure Architecture](./Awesome_Azure_Architecture.png)
 
 A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts.
-This list contains anything that can help with your Microsoft Azure architecture and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
+This list contains anything that can help with your *Microsoft Azure architecture* and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
 
 > Community [contributions](contributing.md) are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
 
@@ -48,6 +48,7 @@ This list contains anything that can help with your Microsoft Azure architecture
  - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
  - [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
  - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+ - [Azure Security](https://docs.microsoft.com/en-us/azure/security/)
  - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/)
  - [Azure Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
  - [Azure architecture icons](https://docs.microsoft.com/en-us/azure/architecture/icons/)
@@ -96,6 +97,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [FastTrack for Azure - AKS Operations](https://github.com/Azure/fta-aks-operations)
 - [FastTrack for Azure - Azure Marketplace](https://github.com/Azure/fta-marketplace-tech)
 - [FastTrack for Azure - FTA Live for Azure Sentinel](https://github.com/Azure/FTA-APACSentinel)
+- [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/)
 
 
 ### Official Forums and Feedback
@@ -135,6 +137,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Exam Ref AZ-304 Microsoft Azure Architect Design](https://www.bookdepository.com/Exam-Ref-AZ-304-Microsoft-Azure-Architect-Design-Ashish-Agrawal/9780137268894?ref=grid-view&qid=1641883617185&sr=1-8)
 - [Microsoft Azure Infrastructure Services for Architects : Designing Cloud Solutions](https://www.bookdepository.com/Microsoft-Azure-Infrastructure-Services-for-Architects-John-Savill/9781119596578?ref=grid-view&qid=1641883617185&sr=1-15)
 - [Microsoft Azure Architect Technologies and Design](https://www.bookdepository.com/Microsoft-Azure-Architect-Technologies-Design-Complete-Study-Guide-Exams-AZ-303-AZ-304-Benjamin-Perkins/9781119559535?ref=grid-view&qid=1641883617185&sr=1-10)
+- [Microsoft 365 Security for IT Pros](https://m365securitybook.com/)
 
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
