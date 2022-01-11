@@ -120,6 +120,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Status](https://status.azure.com/en-us/status)
 - [Azure Stack HCI Solutions](https://hcicatalog.azurewebsites.net/#/?ProductOptimizedFor=Branch+office+and+edge)
 - [Virtual machines selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/)
+- [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 
 ### Official Forums and Feedback
 
