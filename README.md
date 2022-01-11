@@ -81,6 +81,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Design for reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist)
 - [Serverless design examples](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples)
 - [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
+- [Azure security baseline for Azure Virtual Desktop](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline)
 
 ### Official Videos
 
