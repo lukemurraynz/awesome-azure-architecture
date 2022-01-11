@@ -1,12 +1,12 @@
 # AWESOME-Azure-Architecture
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-![Awesome Azure Policy](./Awesome_Azure_Architecture.png)
+![Awesome Azure Architecture](./Awesome_Azure_Architecture.png)
 
 A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts.
 This list contains anything that can help with your Microsoft Azure architecture and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
 
-> Community contributions are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
+> Community [contributions](contributing.md) are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
 
 ## Table Of Contents
 
