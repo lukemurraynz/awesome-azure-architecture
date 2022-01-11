@@ -163,7 +163,7 @@ This list contains anything that can help with your _Microsoft Azure architectur
 [Back To Top](#Table-Of-Contents)
 
 - [Microsoft Sentinel in Action: Architect, design, implement, and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
-- - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
+- [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure DevOps and creating your Cloud Adoption Framework ](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 
 ### Community Tools
