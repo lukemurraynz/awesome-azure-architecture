@@ -17,6 +17,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Docs](#Official-Docs)
   - [Videos](#Official-Videos)
   - [Announcements and Articles](#Official-Announcements-and-Articles)
+  - [Books](#Official-Books)
   - [Repositories and Tools](#Official-Repositories-and-Tools)
   - [Forums and Feedback](#Official-Forums-and-Feedback)
   - [Official Podcasts](#Official-Podcasts)
@@ -99,6 +100,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Azure Backup Center - Backups and Good Governance](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-backup-center-backups-and-good-governance/ba-p/2318843)
 - [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/)
+
+### Official Books
+
+- [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf)
+- [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
+
 
 ### Official Repositories and Tools
 
