@@ -76,6 +76,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/)
 - [Mainframe rehosting on Azure virtual machines](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview)
 - [Azure Arc](https://azure.microsoft.com/en-us/services/azure-arc/)
+- [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+- [Data decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
+- [Design for reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist)
 
 ### Official Videos
 
@@ -151,9 +154,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 - [Azure Updates](https://aka.ms/azureroadmap)
-- [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
-- [Data decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
-- [Design for reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist)
+- [Synapse Machine Learning](https://github.com/microsoft/SynapseML)
 
 ### Official Forums and Feedback
 
