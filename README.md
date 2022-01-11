@@ -60,6 +60,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure architecture icons](https://docs.microsoft.com/en-us/azure/architecture/icons/)
 - [Azure products](https://azure.microsoft.com/en-us/services/)
 - [Azure Migrate](https://azure.microsoft.com/en-us/services/azure-migrate/)
+- [Azure for Partners](https://partner.microsoft.com/en-us/solutions/azure)
 
 ### Official Videos
 
