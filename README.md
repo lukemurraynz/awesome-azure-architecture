@@ -27,6 +27,9 @@ This list contains anything that can help with your _Microsoft Azure architectur
   - [Tools](#Community-Tools)
   - [Repositories](#Community-Repositories)
   - [Forums](#Community-Forums)
+  - [Discord](#Community-Discord)
+  - [Slack](#Community-Slack)
+
 
 ## Official
 
@@ -195,3 +198,22 @@ This list contains anything that can help with your _Microsoft Azure architectur
 
 - [Stack Overflow - Azure](https://stackoverflow.com/questions/tagged/azure)
 - [Reddit - Azure](https://www.reddit.com/r/AZURE/)
+
+### Community Discord
+
+[Back To Top](#Table-Of-Contents)
+
+- [Reddit - Azure](https://discord.gg/cMxFErsEDB)
+- [100 Days of Cloud](https://discord.gg/fwsn67hH)
+- [ITOpsTalk's server](https://discord.gg/JXXmcgET)
+- [PowerShell](https://discord.gg/powershell)
+- [Microsoft Community](https://discord.gg/microsoft)
+
+### Community Slack
+
+[Back To Top](#Table-Of-Contents)
+
+- [Ask an Azure Architect](https://askazure.io/)
+- [Azure Stack HCI](https://aka.ms/hci-slack)
+- [AzureD](http://azured.io/)
+- [Azure DevOps Club](https://teamservices.club/)
