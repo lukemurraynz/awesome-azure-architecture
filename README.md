@@ -62,6 +62,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Migrate](https://azure.microsoft.com/en-us/services/azure-migrate/)
 - [Azure for Partners](https://partner.microsoft.com/en-us/solutions/azure)
 - [Microsoft Azure Immersion Workshops](https://partner.microsoft.com/en-nz/solutions/azure/aiw)
+- [Azure IP advantage](https://azure.microsoft.com/en-us/overview/azure-ip-advantage/)
+- [Azure Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
+- [Azure VMWware Solution](https://azure.microsoft.com/en-us/services/azure-vmware/)
+- [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/)
 
 ### Official Videos
 
@@ -121,6 +125,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Stack HCI Solutions](https://hcicatalog.azurewebsites.net/#/?ProductOptimizedFor=Branch+office+and+edge)
 - [Virtual machines selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/)
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
+- [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 
 ### Official Forums and Feedback
 
@@ -190,9 +195,12 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Network Security](https://github.com/Azure/Azure-Network-Security)
 - [The Azure Readiness Checklist](https://azurechecklist.com/)
 - [MSLab](https://github.com/microsoft/MSLab)
+- [Cloud Harmony](https://cloudharmony.com/)
 - [Azure Charts](https://azurecharts.com/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
+- [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
+- [Docs Update Tracker](https://docsupdatetracker.net/index.html)
 
 ### Community Repositories
 
@@ -203,6 +211,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Stack HCI Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
 - [Azure Resource Inventory](https://github.com/azureinventory/ARI)
+- [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
 
 ### Community Forums
