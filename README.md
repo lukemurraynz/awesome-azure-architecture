@@ -84,6 +84,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 - [Azure security baseline for Azure Virtual Desktop](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline)
 - [Azure Chaos Studio documentation](https://docs.microsoft.com/en-us/azure/chaos-studio/)
+- [Azure Virtual Datacenter](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/vdc)
+- [Microsoft Azure Support](https://azure.microsoft.com/en-us/support/options/)
 
 ### Official Videos
 
@@ -159,6 +161,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 - [Azure Updates](https://aka.ms/azureroadmap)
+- [Azure Twitter](https://twitter.com/Azure)
+- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Synapse Machine Learning](https://github.com/microsoft/SynapseML)
 
 ### Official Forums and Feedback
@@ -167,6 +171,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/forum/79b1327d-d925-ec11-b6e6-000d3a4f06a4)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)
+- [Customer Co-creation](https://customercocreation.microsoft.com/)
 
 ### Official Podcasts
 
