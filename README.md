@@ -71,6 +71,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Visual Studio subscriptions](https://azure.microsoft.com/en-us/services/developer-tools/visual-studio-subscriptions/)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/)
 - [Develop your naming and tagging strategy for Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging/)
+- [Azure sustainability](https://azure.microsoft.com/en-gb/global-infrastructure/sustainability/)
 - [Azure compliance documentation](https://docs.microsoft.com/en-us/azure/compliance/)
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/)
@@ -82,6 +83,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Serverless design examples](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples)
 - [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 - [Azure security baseline for Azure Virtual Desktop](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline)
+- [Azure Chaos Studio documentation](https://docs.microsoft.com/en-us/azure/chaos-studio/)
 
 ### Official Videos
 
