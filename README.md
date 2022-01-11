@@ -42,6 +42,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
 - [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 - [Describe core Azure architectural components](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
+- [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://docs.microsoft.com/en-us/learn/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
 ### Official Docs
 
@@ -73,6 +74,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/)
 - [Mainframe rehosting on Azure virtual machines](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview)
+- [Azure Arc](https://azure.microsoft.com/en-us/services/azure-arc/)
 
 ### Official Videos
 
@@ -231,6 +233,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
 - [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
+- [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture)
 
 ### Community Forums
 
