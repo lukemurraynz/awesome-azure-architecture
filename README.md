@@ -130,6 +130,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [The Azure for Executives Podcast](https://azure.microsoft.com/en-us/industries/podcast/)
+- [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
 
 ## Community
 
