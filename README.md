@@ -185,7 +185,7 @@ This list contains anything that can help with your _Microsoft Azure architectur
 
 [Back To Top](#Table-Of-Contents)
 
-- [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy)
+- [AWESOME-Azure-Policy List](https://github.com/globalbao/awesome-azure-policy)
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Azure Stack HCI Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
