@@ -165,6 +165,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Synapse Machine Learning](https://github.com/microsoft/SynapseML)
 - [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx)
+- [Microsoft Exam Simulator](https://aka.ms/examdemo)
 
 ### Official Forums and Feedback
 
