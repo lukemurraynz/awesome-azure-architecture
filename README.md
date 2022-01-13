@@ -249,6 +249,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Public Cloud Comparison](https://comparecloud.in/)
 - [Azure Services Periodic Table](https://azureservices.io/)
 - [Cloud Custodian](https://cloudcustodian.io/)
+- [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 
 ### Community Repositories
 
