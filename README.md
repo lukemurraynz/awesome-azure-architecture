@@ -57,6 +57,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 - [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [Subscription decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/)
 - [Azure Security](https://docs.microsoft.com/en-us/azure/security/)
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/)
 - [Azure Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
