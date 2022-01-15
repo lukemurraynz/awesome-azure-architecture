@@ -164,7 +164,9 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
 - [Azure Updates](https://aka.ms/azureroadmap)
 - [Azure Twitter](https://twitter.com/Azure)
-- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Azure Resource Explorer](https://resources.azure.com/)
+- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculato
+- [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 - [Synapse Machine Learning](https://github.com/microsoft/SynapseML)
 - [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx)
 - [Microsoft Exam Simulator](https://aka.ms/examdemo)
@@ -253,6 +255,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Services Periodic Table](https://azureservices.io/)
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
+- [Azure Price](https://azureprice.net/)
 
 ### Community Repositories
 
