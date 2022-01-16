@@ -171,6 +171,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx)
 - [Microsoft Exam Simulator](https://aka.ms/examdemo)
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops)
+- [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates)
 
 ### Official Forums and Feedback
 
