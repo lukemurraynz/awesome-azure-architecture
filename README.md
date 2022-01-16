@@ -165,7 +165,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Updates](https://aka.ms/azureroadmap)
 - [Azure Twitter](https://twitter.com/Azure)
 - [Azure Resource Explorer](https://resources.azure.com/)
-- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculato
+- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 - [Synapse Machine Learning](https://github.com/microsoft/SynapseML)
 - [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx)
