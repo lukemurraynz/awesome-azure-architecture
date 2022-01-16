@@ -257,6 +257,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure Price](https://azureprice.net/)
+- [Azure Resource Inventory](https://github.com/azureinventory/ARI)
 
 ### Community Repositories
 
