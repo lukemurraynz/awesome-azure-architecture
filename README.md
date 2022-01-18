@@ -258,6 +258,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure Price](https://azureprice.net/)
 - [Azure Resource Inventory](https://github.com/azureinventory/ARI)
+- [Microsoft Portals](https://msportals.io/)
 
 ### Community Repositories
 
