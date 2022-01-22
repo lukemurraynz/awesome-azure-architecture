@@ -173,6 +173,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Exam Simulator](https://aka.ms/examdemo)
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates)
+- [Azure Review Checklists](https://github.com/Azure/review-checklists)
 
 ### Official Forums and Feedback
 
