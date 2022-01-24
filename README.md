@@ -31,7 +31,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Forums](#Community-Forums)
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
-  - [Community Awesome Lists](###-Community-Other-Microsoft-Azure-related-Awesome-Lists)
+  - [Awesome Lists](#Community-Awesome-Lists)
 
 ## Official
 
@@ -303,7 +303,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure DevOps Club](https://teamservices.club/)
 
 
-### Community Other Microsoft Azure related Awesome Lists
+### Community-Awesome-Lists
 
 [Back To Top](#Table-Of-Contents)
 
