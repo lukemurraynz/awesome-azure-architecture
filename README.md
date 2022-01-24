@@ -31,6 +31,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Forums](#Community-Forums)
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
+  - [Community Awesome Lists](###-Community-Other-Microsoft-Azure-related-Awesome-Lists)
 
 ## Official
 
@@ -266,7 +267,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 [Back To Top](#Table-Of-Contents)
 
-- [AWESOME-Azure-Policy List](https://github.com/globalbao/awesome-azure-policy)
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Azure Stack HCI Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
@@ -301,3 +301,13 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Stack HCI](https://aka.ms/hci-slack)
 - [AzureD](http://azured.io/)
 - [Azure DevOps Club](https://teamservices.club/)
+
+
+### Community Other Microsoft Azure related Awesome Lists
+
+[Back To Top](#Table-Of-Contents)
+
+- [AWESOME-Azure-Policy List](https://github.com/globalbao/awesome-azure-policy)
+- [AWESOME-KQL-Sentinel](https://github.com/reprise99/awesome-kql-sentinel)
+- [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
+
