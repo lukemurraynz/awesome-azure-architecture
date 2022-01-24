@@ -303,7 +303,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure DevOps Club](https://teamservices.club/)
 
 
-### Community-Awesome-Lists
+### Community Awesome Lists
 
 [Back To Top](#Table-Of-Contents)
 
