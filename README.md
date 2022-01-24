@@ -309,5 +309,5 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [AWESOME-Azure-Policy List](https://github.com/globalbao/awesome-azure-policy)
 - [AWESOME-KQL-Sentinel](https://github.com/reprise99/awesome-kql-sentinel)
-- [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
+- [AWESOME-Azure-Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
 
