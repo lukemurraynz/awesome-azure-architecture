@@ -175,6 +175,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates)
 - [Azure Review Checklists](https://github.com/Azure/review-checklists)
+- [Azure Certification Poster](http://aka.ms/traincertposter)
 
 ### Official Forums and Feedback
 
