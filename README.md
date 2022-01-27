@@ -46,6 +46,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Linux on Azure](https://docs.microsoft.com/en-us/learn/paths/azure-linux/)
 - [Describe core Azure architectural components](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
 - [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://docs.microsoft.com/en-us/learn/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
+- [AZ-305: Design identity, governance, and monitor solutions](https://docs.microsoft.com/en-us/learn/paths/design-identity-governance-monitor-solutions/)
+- [AZ-305: Design business continuity solutions](https://docs.microsoft.com/en-us/learn/paths/design-business-continuity-solutions/)
+- [AZ-305: Design data storage solutions](https://docs.microsoft.com/en-us/learn/paths/design-data-storage-solutions/)
+- [AZ-305: Design infrastructure solutions](https://docs.microsoft.com/en-us/learn/paths/design-infranstructure-solutions/)
 
 ### Official Docs
 
