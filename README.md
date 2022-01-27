@@ -180,6 +180,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates)
 - [Azure Review Checklists](https://github.com/Azure/review-checklists)
 - [Azure Certification Poster](http://aka.ms/traincertposter)
+- [Azure Site Recovery Deployment Planner](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner)
 
 ### Official Forums and Feedback
 
