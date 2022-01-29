@@ -150,6 +150,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [FastTrack for Azure - Landing Zone](https://github.com/Azure/fta-landingzone)
 - [FastTrack for Azure - Vision AI Session Resources](https://github.com/Azure/fta-ai-learning)
 - [FastTrack for Azure - Azure Live Azure Purview](https://github.com/Azure/fta-azurepurview)
+- [FastTrack for Azure - Azure Live Sessions](https://github.com/Azure/FTALive-Sessions)
 - [FastTrack for Azure - Azure Live - How to deploy Azure services and infrastructure. Leverage Azure Pipeline for CI/CD](https://github.com/Azure/fta-live-iac)
 - [FastTrack for Azure - Monitoring](https://github.com/Azure/fta-monitoring)
 - [FastTrack for Azure - Windows Virtual Desktop](https://github.com/Azure/fta-windowsvirtualdesktop)
