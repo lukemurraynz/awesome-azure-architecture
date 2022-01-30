@@ -275,6 +275,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Resource Inventory](https://github.com/azureinventory/ARI)
 - [Microsoft Portals](https://msportals.io/)
 - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
+- [Azure Arc Jumpstart (Arcbox)](https://azurearcjumpstart.io/azure_jumpstart_arcbox/full/)
 
 ### Community Repositories
 
