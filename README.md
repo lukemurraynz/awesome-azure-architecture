@@ -62,6 +62,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Best practices in cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 - [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
+- [DevOps checklist](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops)
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [Subscription decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/)
 - [Azure Security](https://docs.microsoft.com/en-us/azure/security/)
