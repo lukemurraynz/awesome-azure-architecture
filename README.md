@@ -33,7 +33,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
   - [Awesome Lists](#Community-Awesome-Lists)
-- [License](#license)
 
 
 ## Official
