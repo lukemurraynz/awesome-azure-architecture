@@ -10,7 +10,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 > Community [contributions](contributing.md) are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
 
-## Table Of Contents
+
+## Contents
 
 - [Official](#Official)
   - [Learn](#Official-MSLearn)
@@ -41,8 +42,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Official MSLearn
 
-[Back To Top](#Table-Of-Contents)
-
 - [Microsoft Azure - Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
 - [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 - [Linux on Azure](https://docs.microsoft.com/en-us/learn/paths/azure-linux/)
@@ -55,8 +54,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Design an enterprise governance strategy](https://docs.microsoft.com/en-us/learn/modules/enterprise-governance/)
 
 ### Official Docs
-
-[Back To Top](#Table-Of-Contents)
 
 - [Azure Governance](https://docs.microsoft.com/en-us/azure/governance/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
@@ -101,8 +98,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Official Videos
 
-[Back To Top](#Table-Of-Contents)
-
 - [Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 - [Inside Azure for IT](https://docs.microsoft.com/en-us/shows/inside-azure-for-it/)
 - [Internet of Things Show](https://docs.microsoft.com/en-us/shows/internet-of-things-show/)
@@ -117,8 +112,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Inside Azure Datacenter Architecture with Mark Russinovich](https://www.youtube.com/watch?v=69PrhWQorEM)
 
 ### Official Announcements and Articles
-
-[Back To Top](#Table-Of-Contents)
 
 - [Azure Backup Center - Backups and Good Governance](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-backup-center-backups-and-good-governance/ba-p/2318843)
 - [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/)
@@ -137,8 +130,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Cloud Practice Playbooks](https://partner.microsoft.com/en-us/campaigns/cloud-practice-playbooks)
 
 ### Official Repositories and Tools
-
-[Back To Top](#Table-Of-Contents)
 
 - [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone)
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
@@ -193,15 +184,11 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Official Forums and Feedback
 
-[Back To Top](#Table-Of-Contents)
-
 - [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/forum/79b1327d-d925-ec11-b6e6-000d3a4f06a4)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)
 - [Customer Co-creation](https://customercocreation.microsoft.com/)
 
 ### Official Podcasts
-
-[Back To Top](#Table-Of-Contents)
 
 - [The Azure for Executives Podcast](https://azure.microsoft.com/en-us/industries/podcast/)
 - [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
@@ -212,14 +199,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Community Videos
 
-[Back To Top](#Table-Of-Contents)
-
 - [Microsoft Azure Master Class](https://www.youtube.com/watch?v=rZcyDHIYpO0&list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Regain Control with Azure Governance](https://www.youtube.com/watch?v=M2y0QsHLeSs)
 
 ### Community Podcasts
-
-[Back To Top](#Table-Of-Contents)
 
 - [The Azure Security Podcast](https://azsecuritypodcast.azurewebsites.net/)
 - [Azure Centric Podcast](https://open.spotify.com/show/0r52YLLXq7fdV1xE5la8gq?autoplay=true)
@@ -228,8 +211,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Sarah Leans Podcast](https://open.spotify.com/show/34QAAvMLSYN09eOAu3j2b0)
 
 ### Community Books
-
-[Back To Top](#Table-Of-Contents)
 
 - [Exam Ref AZ-104 Microsoft Azure Administrator](https://www.bookdepository.com/Exam-Ref-AZ-104-Microsoft-Azure-Administrator-Harshul-Patel/9780136805380?ref=grid-view&qid=1641883617185&sr=1-2)
 - [Exam Ref AZ-303 Microsoft Azure Architect Technologies](https://www.bookdepository.com/Exam-Ref-AZ-303-Microsoft-Azure-Architect-Technologies-Timothy-Warner/9780136805090?ref=grid-view&qid=1641883617185&sr=1-5)
@@ -240,8 +221,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Community Articles
 
-[Back To Top](#Table-Of-Contents)
-
 - [Microsoft Sentinel in Action: Architect, design, implement, and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
 - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure DevOps and creating your Cloud Adoption Framework](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
@@ -251,8 +230,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 
 ### Community Tools
-
-[Back To Top](#Table-Of-Contents)
 
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
@@ -282,8 +259,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Community Repositories
 
-[Back To Top](#Table-Of-Contents)
-
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Azure Stack HCI Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
@@ -295,14 +270,10 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Community Forums
 
-[Back To Top](#Table-Of-Contents)
-
 - [Stack Overflow - Azure](https://stackoverflow.com/questions/tagged/azure)
 - [Reddit - Azure](https://www.reddit.com/r/AZURE/)
 
 ### Community Discord
-
-[Back To Top](#Table-Of-Contents)
 
 - [Reddit - Azure](https://discord.gg/cMxFErsEDB)
 - [100 Days of Cloud](https://discord.gg/fwsn67hH)
@@ -312,8 +283,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Community Slack
 
-[Back To Top](#Table-Of-Contents)
-
 - [Ask an Azure Architect](https://askazure.io/)
 - [Azure Stack HCI](https://aka.ms/hci-slack)
 - [AzureD](http://azured.io/)
@@ -322,20 +291,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Community Awesome Lists
 
-[Back To Top](#Table-Of-Contents)
-
 - [AWESOME-Azure-Policy List](https://github.com/globalbao/awesome-azure-policy)
 - [AWESOME-KQL-Sentinel](https://github.com/reprise99/awesome-kql-sentinel)
 - [AWESOME-Azure-Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
-
-## License
-
-I am providing code and resources in this repository to you under an open source
-license.  Because this is my personal repository, the license you receive to my
-code and resources is from me and not my employer.
-
-Copyright 2022 Luke Murray
-
-Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
-http://creativecommons.org/licenses/by/4.0/
