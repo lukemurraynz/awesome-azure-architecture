@@ -32,6 +32,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
   - [Awesome Lists](#Community-Awesome-Lists)
+- [License](#license)
+
 
 ## Official
 
@@ -326,3 +328,14 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AWESOME-KQL-Sentinel](https://github.com/reprise99/awesome-kql-sentinel)
 - [AWESOME-Azure-Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
 
+## License
+
+I am providing code and resources in this repository to you under an open source
+license.  Because this is my personal repository, the license you receive to my
+code and resources is from me and not my employer.
+
+Copyright 2022 Luke Murray
+
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+http://creativecommons.org/licenses/by/4.0/
