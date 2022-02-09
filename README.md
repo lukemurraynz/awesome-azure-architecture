@@ -32,7 +32,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Forums](#Community-Forums)
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
-  - [Awesome Lists](#Community-Awesome-Lists)
 
 
 ## Official
@@ -290,7 +289,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure DevOps Club](https://teamservices.club/)
 
 
-### Community Awesome Lists
+### Footnotes
 
 - [AWESOME-Azure-Policy List](https://github.com/globalbao/awesome-azure-policy)
 - [AWESOME-KQL-Sentinel](https://github.com/reprise99/awesome-kql-sentinel)
