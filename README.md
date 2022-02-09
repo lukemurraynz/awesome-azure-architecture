@@ -13,7 +13,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ## Contents
 
-- [Official](#Official)
+- [Official](#MS-Official)
   - [Learn](#Official-MSLearn)
   - [Docs](#Official-Docs)
   - [Videos](#Official-Videos)
@@ -35,7 +35,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Awesome Lists](#Community-Awesome-Lists)
 
 
-## Official
+## MS Official
 
 > Links below are from official Microsoft sources, websites, and channels.
 
