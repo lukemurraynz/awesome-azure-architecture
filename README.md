@@ -91,6 +91,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Chaos Studio documentation](https://docs.microsoft.com/en-us/azure/chaos-studio/)
 - [Azure Virtual Datacenter](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/vdc)
 - [Microsoft Azure Support](https://azure.microsoft.com/en-us/support/options/)
+- [Azure Migration Tool Comparison Matrix](https://aka.ms/comparemigrationtools)
 
 ### Official Videos
 
