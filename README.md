@@ -48,6 +48,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AZ-305: Design data storage solutions](https://docs.microsoft.com/en-us/learn/paths/design-data-storage-solutions/)
 - [AZ-305: Design infrastructure solutions](https://docs.microsoft.com/en-us/learn/paths/design-infranstructure-solutions/)
 - [Design an enterprise governance strategy](https://docs.microsoft.com/en-us/learn/modules/enterprise-governance/)
+- [Microsoft Technical Quest](https://mtq.microsoft.com)
 
 ### Official Docs
 
