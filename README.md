@@ -261,6 +261,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
 - [Azure Arc Jumpstart (Arcbox)](https://azurearcjumpstart.io/azure_jumpstart_arcbox/full/)
 - [AzureFeeds](https://azurefeeds.com/)
+- [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming)
 
 ### Community Repositories
 
