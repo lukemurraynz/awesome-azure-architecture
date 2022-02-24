@@ -183,6 +183,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Site Recovery Deployment Planner](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-deployment-planner)
 - [ALZ Bicep](https://github.com/Azure/ALZ-Bicep)
 - [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme)
+- [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
 
 ### Official Forums and Feedback
 
