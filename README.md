@@ -212,6 +212,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [The Azure Podcast](https://azpodcast.azurewebsites.net/)
 - [Azure Lunch](https://podcasts.apple.com/us/podcast/azure-lunch/id1436427476)
 - [Sarah Leans Podcast](https://open.spotify.com/show/34QAAvMLSYN09eOAu3j2b0)
+- [Ctrl+Alt+Azure](https://ctrlaltazure.com/)
 
 ### Community Books
 
