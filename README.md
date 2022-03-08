@@ -94,6 +94,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Virtual Datacenter](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/vdc)
 - [Microsoft Azure Support](https://azure.microsoft.com/en-us/support/options/)
 - [Azure Migration Tool Comparison Matrix](https://aka.ms/comparemigrationtools)
+- [Azure Database Migration Guides](https://docs.microsoft.com/en-us/data-migration/)
 
 ### Official Videos
 
