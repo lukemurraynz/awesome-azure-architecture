@@ -266,6 +266,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Arc Jumpstart (Arcbox)](https://azurearcjumpstart.io/azure_jumpstart_arcbox/full/)
 - [AzureFeeds](https://azurefeeds.com/)
 - [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming)
+- [Microsoft Cert Comp Explorer](https://certcompstorage.z6.web.core.windows.net/certcomp.html)
 
 ### Community Repositories
 
