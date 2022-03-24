@@ -186,6 +186,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [ALZ Bicep](https://github.com/Azure/ALZ-Bicep)
 - [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme)
 - [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
+- [Microsoft Azure - Feedback](https://feedback.azure.com/d365community)
 
 ### Official Forums and Feedback
 
