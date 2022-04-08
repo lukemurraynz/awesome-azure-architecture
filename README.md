@@ -50,7 +50,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Design an enterprise governance strategy](https://docs.microsoft.com/en-us/learn/modules/enterprise-governance/)
 - [Microsoft Technical Quest](https://mtq.microsoft.com)
 - [FastTrack for Azure Live](https://fasttrack.azure.com/live/language/en)
-- [Azure Support Engineer for Connectivity Specialty](https://docs.microsoft.com/en-us/learn/paths/azure-support-engineer-for-connectivity-specialty/)
+- [AZ-720: Azure Support Engineer for Connectivity Specialty](https://docs.microsoft.com/en-us/learn/paths/azure-support-engineer-for-connectivity-specialty/)
 
 ### Official Docs
 
