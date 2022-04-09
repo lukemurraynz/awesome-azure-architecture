@@ -190,6 +190,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator)
 - [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz)
 - [Microsoft Azure - Feedback](https://feedback.azure.com/d365community)
+- [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready)
 
 ### Official Forums and Feedback
 
