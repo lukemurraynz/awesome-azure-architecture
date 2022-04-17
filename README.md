@@ -272,6 +272,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzureFeeds](https://azurefeeds.com/)
 - [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming)
 - [Microsoft Cert Comp Explorer](https://certcompstorage.z6.web.core.windows.net/certcomp.html)
+- [Azure permissions reference](https://azure.permissions.cloud/)
 
 ### Community Repositories
 
