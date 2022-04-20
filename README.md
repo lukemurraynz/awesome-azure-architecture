@@ -97,6 +97,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Migration Tool Comparison Matrix](https://aka.ms/comparemigrationtools)
 - [Azure Database Migration Guides](https://docs.microsoft.com/en-us/data-migration/)
 - [Virtual Microsoft Datacenter Tour](https://news.microsoft.com/stories/microsoft-datacenter-tour/)
+- [Architect multitenant solutions on Azure](https://aka.ms/multitenancy)
 
 ### Official Videos
 
