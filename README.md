@@ -287,6 +287,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
 - [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
 - [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture)
+- [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
 
 ### Community Forums
 
