@@ -8,7 +8,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 > Community [contributions](contributing.md) are most welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
 
-
 ## Contents
 
 - [Official](#Official)
@@ -30,7 +29,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Forums](#Community-Forums)
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
-
 
 ## Official
 
@@ -244,7 +242,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 - [Study Guide for Azure Architect exam AZ-305: Part 1 – Design a Governance Solution](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/)
 - [Study Guide for Azure Architect exam AZ-305: Part 2 – Design Authentication and Authorization Solutions](https://thecloudmarathoner.com/index.php/2022/02/12/study-guide-for-az-305-part-2-design-authentication-and-authorization-solutions/)
-
 
 ### Community Tools
 
