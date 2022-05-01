@@ -212,6 +212,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Microsoft Azure Master Class](https://www.youtube.com/watch?v=rZcyDHIYpO0&list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Regain Control with Azure Governance](https://www.youtube.com/watch?v=M2y0QsHLeSs)
+- [Azure in plain English videos](https://www.azuremonk.com/video)
 
 ### Community Podcasts
 
