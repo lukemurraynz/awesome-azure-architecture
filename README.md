@@ -114,6 +114,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Preparing for Azure advanced specializations](https://partner.microsoft.com/en-us/training/assets/collection/preparing-for-azure-advanced-specializations#/)
 - [Learn TV](https://docs.microsoft.com/en-us/learn/tv/)
 - [Inside Azure Datacenter Architecture with Mark Russinovich](https://www.youtube.com/watch?v=69PrhWQorEM)
+- [Azure Enablement Show](https://docs.microsoft.com/en-us/shows/azure-enablement/)
 
 ### Official Announcements and Articles
 
