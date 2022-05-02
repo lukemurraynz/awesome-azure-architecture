@@ -86,7 +86,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=AZ-MVP-5004796)
 - [Data decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree?WT.mc_id=AZ-MVP-5004796)
 - [Design for reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist?WT.mc_id=AZ-MVP-5004796)
-- [Serverless design examples](hhttps://docs.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples?WT.mc_id=AZ-MVP-5004796)
+- [Serverless design examples](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples?WT.mc_id=AZ-MVP-5004796)
 - [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/?WT.mc_id=AZ-MVP-5004796)
 - [Azure security baseline for Azure Virtual Desktop](https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline?WT.mc_id=AZ-MVP-5004796)
 - [Azure Chaos Studio documentation](https://docs.microsoft.com/en-us/azure/chaos-studio/?WT.mc_id=AZ-MVP-5004796)
