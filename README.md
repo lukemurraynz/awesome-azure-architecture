@@ -247,6 +247,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Study Guide for Azure Architect exam AZ-305: Part 2 – Design Authentication and Authorization Solutions](https://thecloudmarathoner.com/index.php/2022/02/12/study-guide-for-az-305-part-2-design-authentication-and-authorization-solutions/)
 - [Azure in Plain English](https://www.azuremonk.com/)
 - [WhatTheHack-collection of hackathons](https://github.com/microsoft/WhatTheHack)
+- [https://luke.geek.nz/](https://luke.geek.nz/)
 
 ### Community Tools
 
