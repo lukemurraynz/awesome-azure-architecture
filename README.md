@@ -162,6 +162,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [FastTrack for Azure - AKS Operations](https://github.com/Azure/fta-aks-operations)
 - [FastTrack for Azure - Azure Marketplace](https://github.com/Azure/fta-marketplace-tech)
 - [FastTrack for Azure - FTA Live for Azure Sentinel](https://github.com/Azure/FTA-APACSentinel)
+- [FastTrack for Azure - As a Service - Azure Design Review](https://ftaaasdev.z6.web.core.windows.net/)
 - [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/)
 - [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
