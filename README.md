@@ -55,6 +55,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Governance](https://docs.microsoft.com/en-us/azure/governance/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Architecture reference architecture](https://docs.microsoft.com/en-us/azure/architecture/browse/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Arc landing zone accelerator for hybrid and multicloud](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Azure application architecture fundamentals](https://docs.microsoft.com/en-us/azure/architecture/guide/?WT.mc_id=AZ-MVP-5004796)
 - [Best practices in cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/?WT.mc_id=AZ-MVP-5004796)
