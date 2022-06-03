@@ -282,6 +282,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Cert Comp Explorer](https://certcompstorage.z6.web.core.windows.net/certcomp.html)
 - [Azure permissions reference](https://azure.permissions.cloud/)
 - [Managed Azure Bastion Savings Calculator](http://calc.microcloudservice.com/)
+- [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
 
 ### Community Repositories
 
