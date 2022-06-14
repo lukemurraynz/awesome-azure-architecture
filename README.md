@@ -195,6 +195,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz)
 - [Microsoft Azure - Feedback](https://feedback.azure.com/d365community)
 - [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready)
+- [Microsoft Sustainability Calculator](https://aka.ms/SustainabilityCalculator)
 
 ### Official Forums and Feedback
 
