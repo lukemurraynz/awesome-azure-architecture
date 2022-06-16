@@ -284,7 +284,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure permissions reference](https://azure.permissions.cloud/)
 - [Managed Azure Bastion Savings Calculator](http://calc.microcloudservice.com/)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
-- [Microsoft Azure Web Sites Cheat Sheet]([https://aka.ms/AzADServicePrincipalInsights](http://microsoftazurewebsitescheatsheet.info/))
+- [Microsoft Azure Web Sites Cheat Sheet](http://microsoftazurewebsitescheatsheet.info/)
 
 ### Community Repositories
 
