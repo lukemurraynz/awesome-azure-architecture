@@ -317,3 +317,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Stack HCI](https://aka.ms/hci-slack)
 - [AzureD](http://azured.io/)
 - [Azure DevOps Club](https://teamservices.club/)
+
+### Community Meetups
+
+- [Azure Tech Groups](https://www.meetup.com/pro/azuretechgroups)
