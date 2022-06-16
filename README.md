@@ -29,6 +29,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Forums](#Community-Forums)
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
+  - [Meetups](#Community-Meetups)
 
 ## Official
 
