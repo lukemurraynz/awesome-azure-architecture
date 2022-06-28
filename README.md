@@ -322,3 +322,4 @@ This list contains anything that can help with your **Microsoft Azure architectu
 ### Community Meetups
 
 - [Azure Tech Groups](https://www.meetup.com/pro/azuretechgroups)
+- [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/?WT.mc_id=AZ-MVP-5004796)
