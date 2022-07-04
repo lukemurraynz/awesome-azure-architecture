@@ -116,6 +116,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Learn TV](https://docs.microsoft.com/en-us/learn/tv/?WT.mc_id=AZ-MVP-5004796)
 - [Inside Azure Datacenter Architecture with Mark Russinovich](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [Azure Enablement Show](https://docs.microsoft.com/en-us/shows/azure-enablement/?WT.mc_id=AZ-MVP-5004796)
+- [Exam Readiness Zone]([https://docs.microsoft.com/en-us/shows/azure-enablement/?WT.mc_id=AZ-MVP-5004796](https://docs.microsoft.com/en-us/shows/exam-readiness-zone/?WT.mc_id=AZ-MVP-5004796))
 
 ### Official Announcements and Articles
 
