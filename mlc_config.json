@@ -3,6 +3,9 @@
     {
       "pattern": "https://fasttrack.azure.com/live/language/en"
     }
+        {
+      "pattern": "https://docs.microsoft.com/en-us/shows/azure-enablement"
+    }
   ],
   "timeout": "20s",
   "retryOn429": true,
