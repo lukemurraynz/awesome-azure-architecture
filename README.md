@@ -137,6 +137,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Migrating Linux to Microsoft Azure](https://azure.microsoft.com/en-us/resources/migrating-linux-to-microsoft-azure/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Practice Playbooks](https://partner.microsoft.com/en-us/campaigns/cloud-practice-playbooks)
 - [Azure Resiliency – Business Continuity and Disaster Recovery](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/?WT.mc_id=AZ-MVP-5004796)
+- [How to Choose the Right Azure Services for Your Applications—It’s Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Repositories and Tools
 
