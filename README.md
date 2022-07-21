@@ -50,6 +50,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 - [FastTrack for Azure Live](https://fasttrack.azure.com/live/language/en)
 - [AZ-720: Azure Support Engineer for Connectivity Specialty](https://docs.microsoft.com/en-us/learn/paths/azure-support-engineer-for-connectivity-specialty/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Partner - Training Center - Role Based](https://partner.microsoft.com/en-us/training/training-center?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Docs
 
