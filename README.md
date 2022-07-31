@@ -144,6 +144,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone)
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+- [AVDBluePrint](https://github.com/Azure/AVDBlueprint)
 - [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator)
 - [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale)
 - [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ)
