@@ -203,6 +203,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Azure - Feedback](https://feedback.azure.com/d365community)
 - [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready)
 - [Microsoft Sustainability Calculator](https://aka.ms/SustainabilityCalculator)
+- [Static Web Apps CLI](https://azure.github.io/static-web-apps-cli/)
 
 ### Official Forums and Feedback
 
