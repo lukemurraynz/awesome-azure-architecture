@@ -101,6 +101,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
 - [Azure security best practices](https://docs.microsoft.com/en-gb/azure/cloud-adoption-framework/secure/security-top-10?WT.mc_id=AZ-MVP-5004796)
 - [Solutions and Training for Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/solution-articles?WT.mc_id=AZ-MVP-5004796)
+- [AI Lab project: Responsible AI dashboard](https://www.microsoft.com/en-us/ai/ai-lab-responsible-ai-dashboard)
 
 ### Official Videos
 
