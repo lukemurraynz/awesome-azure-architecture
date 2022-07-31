@@ -207,7 +207,8 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 ### Official Forums and Feedback
 
-- [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/forum/79b1327d-d925-ec11-b6e6-000d3a4f06a4/)
+- [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Q&A](https://docs.microsoft.com/en-us/answers/index.html?WT.mc_id=AZ-MVP-5004796)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure?WT.mc_id=AZ-MVP-5004796)
 - [Customer Co-creation](https://customercocreation.microsoft.com/)
 
