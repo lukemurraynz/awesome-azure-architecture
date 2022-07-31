@@ -213,6 +213,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [The Azure for Executives Podcast](https://azure.microsoft.com/en-us/industries/podcast/?WT.mc_id=AZ-MVP-5004796)
 - [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
+- [Getting Closer to Cloud](https://open.spotify.com/show/64CCVDW3yd7bQKRPJHI7CM?si=23975e78b419434e)
 
 ## Community
 
@@ -233,7 +234,6 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Sarah Leans Podcast](https://open.spotify.com/show/34QAAvMLSYN09eOAu3j2b0)
 - [Ctrl+Alt+Azure](https://ctrlaltazure.com/)
 - [Cloud Solution Architects podcast](https://open.spotify.com/show/3BbVrW8lqA1BJ7McsFYDCL)
-- [Getting Closer to Cloud](https://open.spotify.com/show/64CCVDW3yd7bQKRPJHI7CM?si=23975e78b419434e)
 
 ### Community Books
 
