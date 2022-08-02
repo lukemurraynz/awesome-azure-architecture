@@ -298,6 +298,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Managed Azure Bastion Savings Calculator](http://calc.microcloudservice.com/)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
 - [Microsoft Azure Web Sites Cheat Sheet](http://microsoftazurewebsitescheatsheet.info/)
+- [AzTools](https://az.nitor.app/)
 
 ### Community Repositories
 
