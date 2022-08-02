@@ -98,6 +98,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Migration Tool Comparison Matrix](https://aka.ms/comparemigrationtools?WT.mc_id=AZ-MVP-5004796)
 - [Azure Database Migration Guides](https://docs.microsoft.com/en-us/data-migration/?WT.mc_id=AZ-MVP-5004796)
 - [Virtual Microsoft Datacenter Tour](https://news.microsoft.com/stories/microsoft-datacenter-tour/?WT.mc_id=AZ-MVP-5004796)
+- [Azure confidential computing](https://azure.microsoft.com/en-us/solutions/confidential-compute/?WT.mc_id=AZ-MVP-5004796#overview)
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
 - [Azure security best practices](https://docs.microsoft.com/en-gb/azure/cloud-adoption-framework/secure/security-top-10?WT.mc_id=AZ-MVP-5004796)
 - [Solutions and Training for Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/solution-articles?WT.mc_id=AZ-MVP-5004796)
