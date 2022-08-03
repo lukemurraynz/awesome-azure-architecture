@@ -30,7 +30,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
   - [Meetups](#Community-Meetups)
-  - [Meetups](#Community-Awesome-Lists)
+  - [Community Awesome Lists](#Community-Awesome-Lists)
 
 ## Official
 
