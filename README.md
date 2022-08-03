@@ -281,6 +281,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
+- [The Azure Kubernetes Service Checklist](https://www.the-aks-checklist.com/)
 - [Docs Update Tracker](https://docsupdatetracker.net/index.html)
 - [Terraform](https://www.terraform.io/)
 - [Public Cloud Comparison](https://comparecloud.in/)
