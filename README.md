@@ -157,6 +157,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
 - [ALZ Bicep](https://github.com/Azure/ALZ-Bicep)
 - [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator)
+- [AVDAccelerator](https://github.com/Azure/avdaccelerator)
 - [AVDBluePrint](https://github.com/Azure/AVDBlueprint)
 - [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates/?WT.mc_id=AZ-MVP-5004796)
