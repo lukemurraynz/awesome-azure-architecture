@@ -181,6 +181,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Updates](https://aka.ms/azureroadmap/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready)
 - [Cloud Adoption Framework landing zones for Terraform - Starter template](https://github.com/Azure/caf-terraform-landingzones-starter)
+- [Cloud Roles and Operations Management](https://github.com/Azure/cloud-rolesandops)
 - [Common Azure Bicep and ARM Modules Library](https://github.com/Azure/ResourceModules)
 - [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone)
 - [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme)
