@@ -270,6 +270,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
 - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure Citadel](https://azurecitadel.com/)
+- [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
 - [Azure DevOps and creating your Cloud Adoption Framework](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 - [Azure in Plain English](https://www.azuremonk.com/)
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
