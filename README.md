@@ -177,6 +177,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Stack HCI Solutions](https://hcicatalog.azurewebsites.net/#/?ProductOptimizedFor=Branch+office+and+edge)
 - [Azure Status](https://status.azure.com/en-us/status)
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 - [Azure Twitter](https://twitter.com/Azure)
 - [Azure Updates](https://aka.ms/azureroadmap/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready)
