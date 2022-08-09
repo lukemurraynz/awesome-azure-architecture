@@ -154,6 +154,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator)
+- [AKS Release Status](https://releases.aks.azure.com/webpage/index.html#tabasia)
 - [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
 - [ALZ Bicep](https://github.com/Azure/ALZ-Bicep)
 - [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator)
