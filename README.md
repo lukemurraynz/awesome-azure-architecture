@@ -296,6 +296,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzTools](https://az.nitor.app/)
 - [Azure Arc Jumpstart (Arcbox)](https://azurearcjumpstart.io/azure_jumpstart_arcbox/full/)
 - [Azure Charts](https://azurecharts.com/)
+- [Azure Depreciation Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure Network Security](https://github.com/Azure/Azure-Network-Security)
 - [Azure Optimization Engine](https://github.com/helderpinto/AzureOptimizationEngine)
