@@ -308,6 +308,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
+- [Azure Workbench](https://www.azureworkbench.com/)
 - [AzureFeeds](https://azurefeeds.com/)
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Cloud Harmony](https://cloudharmony.com/)
