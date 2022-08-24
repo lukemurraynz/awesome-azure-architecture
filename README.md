@@ -95,6 +95,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/?WT.mc_id=AZ-MVP-5004796)
 - [Mainframe rehosting on Azure virtual machines](https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Assessments](https://docs.microsoft.com/en-us/assessments/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Bounty Program](https://microsoft.com/en-us/msrc/bounty-microsoft-azure?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Immersion Workshops](https://partner.microsoft.com/en-nz/solutions/azure/aiw)
 - [Microsoft Azure Support](https://azure.microsoft.com/en-us/support/options/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/?WT.mc_id=AZ-MVP-5004796)
