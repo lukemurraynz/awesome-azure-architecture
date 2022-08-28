@@ -375,3 +375,4 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
+- [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
