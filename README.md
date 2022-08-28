@@ -85,6 +85,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure Table storage design](https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-design?WT.mc_id=AZ-MVP-5004796)
 - [Azure Virtual Datacenter](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/resources/vdc?WT.mc_id=AZ-MVP-5004796)
 - [Azure VMWware Solution](https://azure.microsoft.com/en-us/services/azure-vmware/?WT.mc_id=AZ-MVP-5004796)
+- [Azure VMware Solution landing zone accelerator](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Best practices in cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/?WT.mc_id=AZ-MVP-5004796)
 - [Compute decision tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=AZ-MVP-5004796)
