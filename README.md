@@ -102,6 +102,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Azure Support](https://azure.microsoft.com/en-us/support/options/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor)
 - [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center)
 - [Serverless design examples](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples?WT.mc_id=AZ-MVP-5004796)
