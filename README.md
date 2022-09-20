@@ -216,6 +216,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Microsoft Datacenter Migration Program Kit (DCM Kit)](https://github.com/microsoft/dcmkit)
 - [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [Microsoft Exam Simulator](https://aka.ms/examdemo/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Kusto Detective Agency](https://detective.kusto.io/)
 - [Microsoft Sustainability Calculator](https://aka.ms/SustainabilityCalculator)
 - [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz)
 - [Solution Architecture Questions](https://github.com/Azure/Solution-Architecture-Questions)
