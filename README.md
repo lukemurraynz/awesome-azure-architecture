@@ -80,7 +80,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [Azure products](https://azure.microsoft.com/en-us/services/?WT.mc_id=AZ-MVP-5004796)
 - [Azure security baseline for Azure Virtual Desktop](https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline?WT.mc_id=AZ-MVP-5004796)
 - [Azure security best practices](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/secure/security-top-10?WT.mc_id=AZ-MVP-5004796)
-- [Azure security best practices](https://learn.microsoft.com/en-us/azure/security/?WT.mc_id=AZ-MVP-5004796)
+- [Azure security documentation](https://learn.microsoft.com/en-us/azure/security/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Security](https://learn.microsoft.com/en-us/azure/security/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/?WT.mc_id=AZ-MVP-5004796)
 - [Azure sustainability](https://azure.microsoft.com/en-gb/global-infrastructure/sustainability/?WT.mc_id=AZ-MVP-5004796)
