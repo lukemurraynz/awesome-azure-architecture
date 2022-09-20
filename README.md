@@ -60,6 +60,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 
 - [AI Lab project: Responsible AI dashboard](https://www.microsoft.com/en-us/ai/ai-lab-responsible-ai-dashboard?WT.mc_id=AZ-MVP-5004796)
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
+- [Automation adoption strategy](https://learn.microsoft.com/en-us/power-platform/guidance/automation-coe/strategy?WT.mc_id=AZ-MVP-5004796)
 - [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Arc landing zone accelerator for hybrid and multicloud](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Azure Arc](https://azure.microsoft.com/en-us/services/azure-arc/?WT.mc_id=AZ-MVP-5004796)
