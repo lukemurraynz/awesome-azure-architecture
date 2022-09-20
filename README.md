@@ -316,7 +316,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzureFeeds](https://azurefeeds.com/)
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Cloud Harmony](https://cloudharmony.com/)
-- [Continuous Cloud Optimization Power BI Dashboards Project](https://github.com/Azure/ccodashboard)
+- [Continuous Cloud Optimization Power BI Dashboards Project](https://github.com/Azure/CCOInsights)
 - [Docs Update Tracker](https://docsupdatetracker.net/index.html)
 - [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming)
 - [Managed Azure Bastion Savings Calculator](http://calc.microcloudservice.com/)
