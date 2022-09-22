@@ -167,6 +167,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [ARO (Azure Red Hat Openshift) Landing Zone Accelerator](https://github.com/Azure/aro-Landing-Zone-Accelerator)
 - [AVDAccelerator](https://github.com/Azure/avdaccelerator)
 - [AVDBluePrint](https://github.com/Azure/AVDBlueprint)
+- [Azure NoOps Accelerator](https://github.com/Azure/NoOpsAccelerator)
 - [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certification Poster](http://aka.ms/traincertposter/?WT.mc_id=AZ-MVP-5004796)
