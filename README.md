@@ -306,6 +306,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 - [AzTools](https://az.nitor.app/)
 - [Azure Arc Jumpstart (Arcbox)](https://azurearcjumpstart.io/azure_jumpstart_arcbox/full/)
 - [Azure Charts](https://azurecharts.com/)
+- [Azure Composite SLA Estimator](https://slaestimator.aztoso.com/)
 - [Azure Depreciation Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
