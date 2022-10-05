@@ -280,6 +280,7 @@ This list contains anything that can help with your **Microsoft Azure architectu
 [Back To Top](#Table-Of-Contents)
 
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
+- [Azure - Considerations for Dev/Test "Sandboxes"](https://github.com/dazzlejim/AzureSandbox)
 - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure Citadel](https://azurecitadel.com/)
 - [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
