@@ -218,6 +218,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [FastTrack for Azure - Networking](https://github.com/Azure/fta-networking)
 - [FastTrack for Azure - Vision AI Session Resources](https://github.com/Azure/fta-ai-learning)
 - [FastTrack for Azure - Windows Virtual Desktop](https://github.com/Azure/fta-windowsvirtualdesktop)
+- [Hybrid Cloud Deal Size Estimator](https://azurehybridestimator.azurewebsites.net/)
 - [Microsoft Azure - Feedback](https://feedback.azure.com/d365community)
 - [Microsoft Datacenter Migration Program Kit (DCM Kit)](https://github.com/microsoft/dcmkit)
 - [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
