@@ -93,6 +93,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure VMware Solution landing zone accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Azure VMWware Solution](https://azure.microsoft.com/en-us/services/azure-vmware/?WT.mc_id=AZ-MVP-5004796)
 - [Best practices in cloud applications](https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices?WT.mc_id=AZ-MVP-5004796)
+- [Cloud economics](https://azure.microsoft.com/solutions/cloud-economics/?WT.mc_id=AZ-MVP-5004796#overview)
 - [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/?WT.mc_id=AZ-MVP-5004796)
 - [Compute decision tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=AZ-MVP-5004796)
 - [Data decision tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree?WT.mc_id=AZ-MVP-5004796)
