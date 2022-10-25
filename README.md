@@ -21,7 +21,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Repositories and Tools](#Official-Repositories-and-Tools)
   - [Forums and Feedback](#Official-Forums-and-Feedback)
   - [Official Podcasts](#Official-Podcasts)
-  - [Community Calls](#Official-CommunityCalls)
+  - [Community Calls](#Official-Community-Calls)
 - [Community](#Community)
   - [Videos](#Community-Videos)
   - [Podcasts](#Community-Podcasts)
@@ -249,10 +249,11 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
 - [The Azure for Executives Podcast](https://azure.microsoft.com/en-us/industries/podcast/?WT.mc_id=AZ-MVP-5004796)
 
-### Official CommunityCalls
+### Official Community Calls
 [Back To Top](#Table-Of-Contents)
 
 - [Azure ARM/Bicep Community Call - Sign Up Form](https://aka.ms/armnews?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Arc Community Monthly Meetup](https://github.com/microsoft/azure_arc_community?WT.mc_id=AZ-MVP-5004796)
 
 ## Community
 
