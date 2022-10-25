@@ -253,7 +253,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 [Back To Top](#Table-Of-Contents)
 
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
-- [Microsoft Azure Arc Community Monthly Meetup](https://github.com/microsoft/azure_arc_community?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Arc Community Monthly Meetup](https://github.com/microsoft/azure_arc_community)
 
 ## Community
 
