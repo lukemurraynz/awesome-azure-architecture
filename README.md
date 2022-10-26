@@ -315,6 +315,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
 
+- [[cmd.ms] the Microsoft Cloud command line](https://cmd.ms/)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
