@@ -340,7 +340,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming)
 - [Managed Azure Bastion Savings Calculator](http://calc.microcloudservice.com/)
 - [Microsoft Azure Web Sites Cheat Sheet](http://microsoftazurewebsitescheatsheet.info/)
-- [Microsoft Cert Comp Explorer](https://certcompstorage.z6.web.core.windows.net/certcomp.html)
 - [Microsoft Portals](https://msportals.io/)
 - [MSLab](https://github.com/microsoft/MSLab)
 - [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure)
