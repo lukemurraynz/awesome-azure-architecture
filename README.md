@@ -21,7 +21,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Repositories and Tools](#Official-Repositories-and-Tools)
   - [Forums and Feedback](#Official-Forums-and-Feedback)
   - [Official Podcasts](#Official-Podcasts)
-  - [Community Calls](#Official-Community-Calls)
 - [Community](#Community)
   - [Videos](#Community-Videos)
   - [Podcasts](#Community-Podcasts)
@@ -238,10 +237,15 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 ### Official Forums and Feedback
 [Back To Top](#Table-Of-Contents)
 
+- [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
+- [Cloud Security - Private Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
 - [Customer Co-creation](https://customercocreation.microsoft.com/)
+- [Microsoft 365 Platform Community](https://pnp.github.io/#community)
 - [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Arc Community Monthly Meetup](https://github.com/microsoft/azure_arc_community)
 - [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/index.html?WT.mc_id=AZ-MVP-5004796)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure?WT.mc_id=AZ-MVP-5004796)
+- [Windows Customer Connection Program](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/join-the-windows-customer-connection-program/ba-p/3473775?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Podcasts
 [Back To Top](#Table-Of-Contents)
@@ -249,14 +253,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Getting Closer to Cloud](https://open.spotify.com/show/64CCVDW3yd7bQKRPJHI7CM?si=23975e78b419434e)
 - [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
 - [The Azure for Executives Podcast](https://azure.microsoft.com/en-us/industries/podcast/?WT.mc_id=AZ-MVP-5004796)
-
-### Official Community Calls
-[Back To Top](#Table-Of-Contents)
-
-- [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
-- [Cloud Security - Private Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure Arc Community Monthly Meetup](https://github.com/microsoft/azure_arc_community)
-- [Microsoft 365 Platform Community](https://pnp.github.io/#community)
 
 ## Community
 
