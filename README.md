@@ -238,6 +238,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 [Back To Top](#Table-Of-Contents)
 
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
+- [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
 - [Cloud Security - Private Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
 - [Customer Co-creation](https://customercocreation.microsoft.com/)
 - [Microsoft 365 Platform Community](https://pnp.github.io/#community)
