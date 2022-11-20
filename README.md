@@ -32,7 +32,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Discord](#Community-Discord)
   - [Slack](#Community-Slack)
   - [Meetups](#Community-Meetups)
-  - [Community Awesome Lists](#Community-Awesome-Lists)
+  - [Community Lists](#Community-Lists)
 
 ## Official
 
@@ -300,7 +300,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
 - [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 - [https://luke.geek.nz/](https://luke.geek.nz/)
-- [Marks List - Cybersecurity Resources frequently sent to customers and colleagues](https://www.azuremonk.com/](https://aka.ms/MarksList)
 - [Microsoft Azure - Center for Internet Security](https://www.cisecurity.org/benchmark/azure/)
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
@@ -390,7 +389,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Tech Groups](https://www.meetup.com/pro/azuretechgroups)
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/?WT.mc_id=AZ-MVP-5004796)
 
-### Community Awesome Lists
+### Community Lists
 [Back To Top](#Table-Of-Contents)
 
 - [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
@@ -398,3 +397,5 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
+- [Marks List - Cybersecurity Resources frequently sent to customers and colleagues](https://aka.ms/MarksList)
+
