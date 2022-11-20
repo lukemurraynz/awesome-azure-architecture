@@ -300,6 +300,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
 - [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 - [https://luke.geek.nz/](https://luke.geek.nz/)
+- [Marks List - Cybersecurity Resources frequently sent to customers and colleagues](https://www.azuremonk.com/](https://aka.ms/MarksList)
 - [Microsoft Azure - Center for Internet Security](https://www.cisecurity.org/benchmark/azure/)
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
