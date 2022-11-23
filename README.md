@@ -231,6 +231,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Solution Architecture Questions](https://github.com/Azure/Solution-Architecture-Questions)
 - [Static Web Apps CLI](https://azure.github.io/static-web-apps-cli/)
 - [Synapse Machine Learning](https://github.com/microsoft/SynapseML)
+- [The Migration Guide](https://github.com/Azure/migration)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/?WT.mc_id=AZ-MVP-5004796)
 - [Virtual machines selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/?WT.mc_id=AZ-MVP-5004796)
 
