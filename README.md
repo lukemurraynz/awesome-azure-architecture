@@ -179,6 +179,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Hybrid Use Benefit Calculator](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/?WT.mc_id=AZ-MVP-5004796#calculator)
 - [Azure Infrastructure Map](https://infrastructuremap.microsoft.com/)
 - [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?WT.mc_id=AZ-MVP-5004796)
