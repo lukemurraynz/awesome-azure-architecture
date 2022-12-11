@@ -153,6 +153,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Cloud Migration and Modernization with Microsoft Azure e-book](https://azure.microsoft.com/en-us/resources/cloud-migration-and-modernization-with-microsoft-azure-e-book/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Migration Simplified](https://azure.microsoft.com/en-us/resources/cloud-migration-simplified/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Practice Playbooks](https://partner.microsoft.com/en-us/campaigns/cloud-practice-playbooks)
+- [Enterprise Cloud Strategy](https://azure.microsoft.com/en-us/resources/enterprise-cloud-strategy/?WT.mc_id=AZ-MVP-5004796)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/?WT.mc_id=AZ-MVP-5004796)
 - [Get up and running with Kubernetes](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/?WT.mc_id=AZ-MVP-5004796)
 - [How to Choose the Right Azure Services for Your Applications—It’s Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
