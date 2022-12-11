@@ -175,6 +175,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [AVDBluePrint](https://github.com/Azure/AVDBlueprint)
 - [Azure NoOps Accelerator](https://github.com/Azure/NoOpsAccelerator)
 - [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
+- [Azure Accelerators](https://msusazureaccelerators.github.io/)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certification Poster](http://aka.ms/traincertposter/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
