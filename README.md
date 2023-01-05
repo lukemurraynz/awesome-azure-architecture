@@ -152,6 +152,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure SQL Resource Kit](https://azure.microsoft.com/en-us/resources/azure-sql-resource-kit/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Migration and Modernization with Microsoft Azure e-book](https://azure.microsoft.com/en-us/resources/cloud-migration-and-modernization-with-microsoft-azure-e-book/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Migration Simplified](https://azure.microsoft.com/en-us/resources/cloud-migration-simplified/?WT.mc_id=AZ-MVP-5004796)
+- [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/resources/whitepapers/developer-guide-to-azure/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Practice Playbooks](https://partner.microsoft.com/en-us/campaigns/cloud-practice-playbooks)
 - [Enterprise Cloud Strategy](https://azure.microsoft.com/en-us/resources/enterprise-cloud-strategy/?WT.mc_id=AZ-MVP-5004796)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/?WT.mc_id=AZ-MVP-5004796)
