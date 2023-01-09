@@ -329,6 +329,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Depreciation Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
+- [Azure IPAM](https://azure.github.io/ipam/#/)
 - [Azure Network Security](https://github.com/Azure/Azure-Network-Security)
 - [Azure Optimization Engine](https://github.com/helderpinto/AzureOptimizationEngine)
 - [Azure permissions reference](https://azure.permissions.cloud/)
