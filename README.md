@@ -179,6 +179,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certification Poster](http://aka.ms/traincertposter/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Certs Poster](https://aka.ms/AzureCerts_poster?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops/?WT.mc_id=AZ-MVP-5004796)
