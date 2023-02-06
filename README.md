@@ -163,7 +163,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Migrating Linux to Microsoft Azure](https://azure.microsoft.com/en-us/resources/migrating-linux-to-microsoft-azure/?WT.mc_id=AZ-MVP-5004796)
 - [Migration SQL Server databases to Azure](https://download.microsoft.com/download/9/8/C/98C3E3C8-E016-443D-BE22-CFEB187DAFFA/Microsoft_Press_eBook_Migrating_SQL_Server_Databases_to_Azure_8.5x11.pdf?WT.mc_id=AZ-MVP-5004796)
 - [Rethinking Enterprise Storage](https://download.microsoft.com/download/8/5/6/85677038-09DE-4F20-AECD-C7A44B5A7E1E/679603ebook.pdf?WT.mc_id=AZ-MVP-5004796)
-- [Azure Security](https://www.manning.com/books/azure-security-2)
 
 ### Official Repositories and Tools
 [Back To Top](#Table-Of-Contents)
