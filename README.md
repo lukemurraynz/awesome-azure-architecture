@@ -294,6 +294,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Microsoft 365 Security for IT Pros](https://m365securitybook.com/)
 - [Microsoft Azure Architect Technologies and Design](https://www.bookdepository.com/Microsoft-Azure-Architect-Technologies-Design-Complete-Study-Guide-Exams-AZ-303-AZ-304-Benjamin-Perkins/9781119559535?ref=grid-view&qid=1641883617185&sr=1-10)
 - [Microsoft Azure Infrastructure Services for Architects : Designing Cloud Solutions](https://www.bookdepository.com/Microsoft-Azure-Infrastructure-Services-for-Architects-John-Savill/9781119596578?ref=grid-view&qid=1641883617185&sr=1-15)
+- [Azure Security](https://www.manning.com/books/azure-security-2)
 
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
