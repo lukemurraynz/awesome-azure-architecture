@@ -303,6 +303,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure - Considerations for Dev/Test "Sandboxes"](https://github.com/dazzlejim/AzureSandbox)
 - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
 - [Azure Citadel](https://azurecitadel.com/)
+- (Azure Architecture - Solution Requirement Consideration Checklist)(https://luke.geek.nz/azure/azure-architecture-solution-requirement-consideration-checklist/)
 - [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
 - [Azure DevOps and creating your Cloud Adoption Framework](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 - [Azure in Plain English](https://www.azuremonk.com/)
