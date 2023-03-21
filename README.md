@@ -184,6 +184,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [AVDBluePrint](https://github.com/Azure/AVDBlueprint)
 - [Azure Accelerators](https://msusazureaccelerators.github.io/)
 - [Azure AlwaysOn](https://github.com/Azure/AlwaysOn#readme)
+- [Azure App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certification Poster](http://aka.ms/traincertposter/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certs Poster](https://aka.ms/AzureCerts_poster?WT.mc_id=AZ-MVP-5004796)
