@@ -339,6 +339,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 - [[cmd.ms] the Microsoft Cloud command line](https://cmd.ms/)
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
+- [ASTEROID Project (BETA)](https://azure.github.io/Asteroid/)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
