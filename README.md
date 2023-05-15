@@ -31,7 +31,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Forums](#community-forums)
   - [Discord](#community-discord)
   - [Slack](#community-slack)
-  - [Meetups](#community-meetups)
+  - [Meetups](#community-meetups-&-calls)
   - [Community Lists](#community-lists)
 
 ## Official
@@ -187,8 +187,8 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator)
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certification Poster](http://aka.ms/traincertposter/?WT.mc_id=AZ-MVP-5004796)
-- [Azure Certs Poster](https://aka.ms/AzureCerts_poster?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certified IoT Device catalog](https://devicecatalog.azure.com/)
+- [Azure Certs Poster](https://aka.ms/AzureCerts_poster?WT.mc_id=AZ-MVP-5004796)
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Hybrid Use Benefit Calculator](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/?WT.mc_id=AZ-MVP-5004796#calculator)
@@ -254,6 +254,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Advisors] (https://aka.ms/ACPNomination)
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
 - [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
 - [Cloud Security - Private Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
@@ -264,7 +265,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/index.html?WT.mc_id=AZ-MVP-5004796)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure?WT.mc_id=AZ-MVP-5004796)
 - [Windows Customer Connection Program](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/join-the-windows-customer-connection-program/ba-p/3473775?WT.mc_id=AZ-MVP-5004796)
-- [Azure Advisors] (https://aka.ms/ACPNomination)
 
 ### Official Podcasts
 
@@ -290,6 +290,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 [Back To Top](#Table-Of-Contents)
 
+- [Azure All Stars](https://azureallstars.co.nz/)
 - [Azure Centric Podcast](https://open.spotify.com/show/0r52YLLXq7fdV1xE5la8gq?autoplay=true)
 - [Azure Lunch](https://podcasts.apple.com/us/podcast/azure-lunch/id1436427476)
 - [Cloud Solution Architects podcast](https://open.spotify.com/show/3BbVrW8lqA1BJ7McsFYDCL)
@@ -302,13 +303,13 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Security](https://www.manning.com/books/azure-security-2)
 - [Exam Ref AZ-104 Microsoft Azure Administrator](https://www.bookdepository.com/Exam-Ref-AZ-104-Microsoft-Azure-Administrator-Harshul-Patel/9780136805380?ref=grid-view&qid=1641883617185&sr=1-2)
 - [Exam Ref AZ-303 Microsoft Azure Architect Technologies](https://www.bookdepository.com/Exam-Ref-AZ-303-Microsoft-Azure-Architect-Technologies-Timothy-Warner/9780136805090?ref=grid-view&qid=1641883617185&sr=1-5)
 - [Exam Ref AZ-304 Microsoft Azure Architect Design](https://www.bookdepository.com/Exam-Ref-AZ-304-Microsoft-Azure-Architect-Design-Ashish-Agrawal/9780137268894?ref=grid-view&qid=1641883617185&sr=1-8)
 - [Microsoft 365 Security for IT Pros](https://m365securitybook.com/)
 - [Microsoft Azure Architect Technologies and Design](https://www.bookdepository.com/Microsoft-Azure-Architect-Technologies-Design-Complete-Study-Guide-Exams-AZ-303-AZ-304-Benjamin-Perkins/9781119559535?ref=grid-view&qid=1641883617185&sr=1-10)
 - [Microsoft Azure Infrastructure Services for Architects : Designing Cloud Solutions](https://www.bookdepository.com/Microsoft-Azure-Infrastructure-Services-for-Architects-John-Savill/9781119596578?ref=grid-view&qid=1641883617185&sr=1-15)
-- [Azure Security](https://www.manning.com/books/azure-security-2)
 
 ### Community Articles
 
@@ -317,8 +318,8 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
 - [Azure - Considerations for Dev/Test "Sandboxes"](https://github.com/dazzlejim/AzureSandbox)
 - [Azure Architecture - Design Principles and Lessons Learned](https://medium.com/azure-architects/azure-architecture-design-principles-and-lessons-learned-e79d700b5f39)
-- [Azure Citadel](https://azurecitadel.com/)
 - [Azure Architecture - Solution Requirement Consideration Checklist](https://luke.geek.nz/azure/azure-architecture-solution-requirement-consideration-checklist/)
+- [Azure Citadel](https://azurecitadel.com/)
 - [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
 - [Azure DevOps and creating your Cloud Adoption Framework](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
 - [Azure in Plain English](https://www.azuremonk.com/)
@@ -364,8 +365,8 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure permissions reference](https://azure.permissions.cloud/)
 - [Azure Price](https://azureprice.net/)
 - [Azure Quick Review](https://github.com/cmendible/azqr/tree/main)
-- [Azure Services Periodic Table](https://azureservices.io/)
 - [Azure Serverless Community Library](https://www.serverlesslibrary.net/)
+- [Azure Services Periodic Table](https://azureservices.io/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
@@ -437,12 +438,22 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 - [Ask an Azure Architect](https://askazure.io/)
 
-### Community Meetups
+### Community Meetups & Calls
 
 [Back To Top](#Table-Of-Contents)
 
+- [Azure Arc](https://github.com/microsoft/azure_arc_community)
+- [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
+- [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements)
+- [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
+- [Azure Landing Zone Community Calls](https://aka.ms/ALZ/CommunityCallAgenda)
 - [Azure Tech Groups](https://www.meetup.com/pro/azuretechgroups)
+- [Cloud Security](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
+- [M365 Platform Community](https://pnp.github.io/#community)
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/?WT.mc_id=AZ-MVP-5004796)
+- [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall)
+- [Terraform](https://aka.ms/AzureTerraform)
+- [Windows Customer Connection](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/join-the-windows-customer-connection-program/ba-p/3473775?WT.mc_id=AZ-MVP-5004796)
 
 ### Community Lists
 
@@ -450,9 +461,9 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 - [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
+- [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
-- [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
-- [Get Security Done](https://aka.ms/GSD)
 - [Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide)
+- [Get Security Done](https://aka.ms/GSD)
 - [Marks List - Cybersecurity Resources frequently sent to customers and colleagues](https://aka.ms/MarksList)
