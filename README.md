@@ -366,7 +366,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Price](https://azureprice.net/)
 - [Azure Quick Review](https://github.com/cmendible/azqr/tree/main)
 - [Azure Serverless Community Library](https://www.serverlesslibrary.net/)
-- [Azure Services Periodic Table](https://azureservices.io/)
+- [Azure Services Periodic Table](https://azureperiodic.data3.com/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
