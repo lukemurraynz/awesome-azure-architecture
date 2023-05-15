@@ -31,7 +31,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Forums](#community-forums)
   - [Discord](#community-discord)
   - [Slack](#community-slack)
-  - [Meetups](#community-meetups-&-calls)
+  - [Meetups](#community-meetups--calls)
   - [Community Lists](#community-lists)
 
 ## Official
