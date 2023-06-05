@@ -104,6 +104,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Design for reliability](https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist?WT.mc_id=AZ-MVP-5004796)
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging?WT.mc_id=AZ-MVP-5004796)
 - [DevOps checklist](https://learn.microsoft.com/en-us/azure/architecture/checklist/dev-ops?WT.mc_id=AZ-MVP-5004796)
+- [Hands on with AI](https://aidemos.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/?WT.mc_id=AZ-MVP-5004796)
 - [Mainframe rehosting on Azure virtual machines](https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/?WT.mc_id=AZ-MVP-5004796)
