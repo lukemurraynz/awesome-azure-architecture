@@ -358,6 +358,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
 - [Azure Depreciation Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
 - [Azure DevOps and creating your Cloud Adoption Framework](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
+- [Azure Diagrams](https://azurediagrams.com/)
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
 - [Azure in Plain English](https://www.azuremonk.com/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
