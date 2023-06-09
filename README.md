@@ -51,7 +51,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Control Azure spending and manage bills with Microsoft Cost Management + Billing](https://learn.microsoft.com/en-us/training/paths/control-spending-manage-bills/?WT.mc_id=AZ-MVP-5004796)
 - [Describe core Azure architectural components](https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/?WT.mc_id=AZ-MVP-5004796)
 - [Design an enterprise governance strategy](https://learn.microsoft.com/en-us/training/modules/enterprise-governance/?WT.mc_id=AZ-MVP-5004796)
-- [FastTrack for Azure Live](https://fasttrack.azure.com/live/language/en)
 - [Linux on Azure](https://learn.microsoft.com/en-us/learn/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Connected Learning Experience (CLX)](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa?wt.mc_id=AZ-MVP-5004796)
@@ -256,11 +255,10 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 [Back To Top](#Table-Of-Contents)
 
-- [Azure Advisors] (https://aka.ms/ACPNomination)
+- [Azure Advisors] (<https://aka.ms/ACPNomination>)
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
 - [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
 - [Cloud Security - Private Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
-- [Customer Co-creation](https://customercocreation.microsoft.com/)
 - [Microsoft 365 Platform Community](https://pnp.github.io/#community)
 - [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Arc Community Monthly Meetup](https://github.com/microsoft/azure_arc_community)
@@ -324,7 +322,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Citadel](https://azurecitadel.com/)
 - [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
 - [Azure DevOps and creating your Cloud Adoption Framework](https://luke.geek.nz/azure/azure-devops-and-creating-your-cloud-adoption-framework/)
-- [Azure in Plain English](https://www.azuremonk.com/)
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
 - [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 - [https://luke.geek.nz/](https://luke.geek.nz/)
@@ -341,7 +338,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 [Back To Top](#Table-Of-Contents)
 
-- [[cmd.ms] the Microsoft Cloud command line](https://cmd.ms/)
+- [[cmd.ms] the Microsoft Cloud command line](<https://cmd.ms/>)
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
 - [ASTEROID Project (BETA)](https://azure.github.io/Asteroid/)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
@@ -371,7 +368,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Serverless Community Library](https://www.serverlesslibrary.net/)
 - [Azure Services Periodic Table](https://azureperiodic.data3.com/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
-- [Azure SQL Database DTU Calculator](https://dtucalculator.azurewebsites.net/)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 - [Azure Workbench](https://www.azureworkbench.com/)
@@ -390,7 +386,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
 - [Microsoft Azure Tagging Conventions](https://luke.geek.nz/azure/microsoft-azure-tagging-conventions/)
-- [Microsoft Azure Web Sites Cheat Sheet](http://microsoftazurewebsitescheatsheet.info/)
 - [Microsoft Portals](https://msportals.io/)
 - [Microsoft Sentinel in Action: Architect, design, implement, and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
 - [MSLab](https://github.com/microsoft/MSLab)
@@ -401,7 +396,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Study Guide for Azure Architect exam AZ-305: Part 2 – Design Authentication and Authorization Solutions](https://thecloudmarathoner.com/index.php/2022/02/12/study-guide-for-az-305-part-2-design-authentication-and-authorization-solutions/)
 - [Terraform](https://www.terraform.io/)
 - [The Azure Kubernetes Service Checklist](https://www.the-aks-checklist.com/)
-- [The Azure Readiness Checklist](https://azurechecklist.com/)
 - [WhatTheHack-collection of hackathons](https://github.com/microsoft/WhatTheHack)
 
 ### Community Repositories
