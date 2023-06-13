@@ -162,6 +162,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Cloud Practice Playbooks](https://partner.microsoft.com/en-us/campaigns/cloud-practice-playbooks)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/?WT.mc_id=AZ-MVP-5004796)
 - [Enterprise Cloud Strategy](https://azure.microsoft.com/en-us/resources/enterprise-cloud-strategy/?WT.mc_id=AZ-MVP-5004796)
+- [FinOps with Azure - Bringing FinOps to life through organizational and cultural alignment](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/?WT.mc_id=AZ-MVP-5004796)
 - [Get up and running with Kubernetes](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/?WT.mc_id=AZ-MVP-5004796)
 - [How to Choose the Right Azure Services for Your Applications—It’s Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
 - [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf?WT.mc_id=AZ-MVP-5004796)
