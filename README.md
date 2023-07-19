@@ -459,7 +459,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 - [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
-- [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
 - [Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide)
