@@ -447,6 +447,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Landing Zone Community Calls](https://aka.ms/ALZ/CommunityCallAgenda)
 - [Azure Tech Groups](https://www.meetup.com/pro/azuretechgroups)
 - [Cloud Security](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/join-our-security-community/ba-p/927888?WT.mc_id=AZ-MVP-5004796)
+- [Azure Static WebApps - Community Livestream](https://aka.ms/swa/community/standups)
 - [M365 Platform Community](https://pnp.github.io/#community)
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/?WT.mc_id=AZ-MVP-5004796)
 - [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall)
