@@ -40,7 +40,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official MSLearn
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [AZ-305: Design business continuity solutions](https://learn.microsoft.com/en-us/training/paths/design-business-continuity-solutions/?WT.mc_id=AZ-MVP-5004796)+
 - [AZ-305: Design data storage solutions](https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/?WT.mc_id=AZ-MVP-5004796)
@@ -60,7 +60,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Docs
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [AI Lab project: Responsible AI dashboard](https://www.microsoft.com/en-us/ai/ai-lab-responsible-ai-dashboard?WT.mc_id=AZ-MVP-5004796)
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
@@ -125,7 +125,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Videos
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [AI Show](https://learn.microsoft.com/en-us/shows/ai-show/?WT.mc_id=AZ-MVP-5004796)
 - [Ask The Expert](https://learn.microsoft.com/en-us/shows/ask-the-expert/?WT.mc_id=AZ-MVP-5004796)
@@ -144,14 +144,14 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Announcements and Articles
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure Backup Center - Backups and Good Governance](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-backup-center-backups-and-good-governance/ba-p/2318843?WT.mc_id=AZ-MVP-5004796)
 - [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Books
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-500479)
 - [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/?WT.mc_id=AZ-MVP-5004796)
@@ -173,7 +173,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Repositories and Tools
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator)
 - [AKS Release Status](https://releases.aks.azure.com/webpage/index.html#tabasia)
@@ -255,7 +255,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Forums and Feedback
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure Advisors](<https://aka.ms/ACPNomination>)
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
@@ -270,7 +270,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Podcasts
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Getting Closer to Cloud](https://open.spotify.com/show/64CCVDW3yd7bQKRPJHI7CM?si=23975e78b419434e)
 - [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
@@ -282,7 +282,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Videos
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure explained in plain English videos](https://www.youtube.com/lessthan5min)
 - [Microsoft Azure Master Class](https://www.youtube.com/watch?v=rZcyDHIYpO0&list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
@@ -290,7 +290,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Podcasts
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure All Stars](https://azureallstars.co.nz/)
 - [Azure Centric Podcast](https://open.spotify.com/show/0r52YLLXq7fdV1xE5la8gq?autoplay=true)
@@ -303,7 +303,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Books
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure Security](https://www.manning.com/books/azure-security-2)
 - [Exam Ref AZ-104 Microsoft Azure Administrator](https://www.bookdepository.com/Exam-Ref-AZ-104-Microsoft-Azure-Administrator-Harshul-Patel/9780136805380?ref=grid-view&qid=1641883617185&sr=1-2)
@@ -315,7 +315,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Articles
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
 - [Azure - Considerations for Dev/Test "Sandboxes"](https://github.com/dazzlejim/AzureSandbox)
@@ -338,7 +338,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Tools
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [[cmd.ms] the Microsoft Cloud command line](<https://cmd.ms/>)
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
@@ -401,7 +401,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Repositories
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture)
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
@@ -415,14 +415,14 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Forums
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Reddit - Azure](https://www.reddit.com/r/AZURE/)
 - [Stack Overflow - Azure](https://stackoverflow.com/questions/tagged/azure)
 
 ### Community Discord
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [100 Days of Cloud](https://discord.gg/fwsn67hH)
 - [ITOpsTalk's server](https://discord.gg/JXXmcgET)
@@ -432,13 +432,13 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Slack
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Ask an Azure Architect](https://askazure.io/)
 
 ### Community Meetups & Calls
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [Azure Arc](https://github.com/microsoft/azure_arc_community)
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
@@ -456,7 +456,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Community Lists
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#contents)
 
 - [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
