@@ -212,6 +212,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 - [Azure Twitter](https://twitter.com/Azure)
 - [Azure Updates](https://aka.ms/azureroadmap/?WT.mc_id=AZ-MVP-5004796)
+- [Business Continuity Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/introducing-the-azure-business-continuity-guide/ba-p/3905424?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/master/ready)
 - [Cloud Adoption Framework landing zones for Terraform - Starter template](https://github.com/Azure/caf-terraform-landingzones-starter)
 - [Cloud Roles and Operations Management](https://github.com/Azure/cloud-rolesandops)
