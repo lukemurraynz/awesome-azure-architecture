@@ -460,6 +460,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 [Back To Top](#contents)
 
 - [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
+- [Awesome Azure DevOps](https://github.com/johnlokerse/awesome-azure-devops)
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
