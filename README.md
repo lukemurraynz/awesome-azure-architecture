@@ -253,6 +253,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [The Migration Guide](https://github.com/Azure/migration)
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/?WT.mc_id=AZ-MVP-5004796)
 - [Virtual machines selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Optimazation Engine](https://github.com/helderpinto/AzureOptimizationEngine)
 
 ### Official Forums and Feedback
 
