@@ -114,6 +114,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Partner Resources](https://microsoft.github.io/PartnerResources/))
 - [Microsoft Product/Licensing Terms](https://www.microsoft.com/licensing/terms/welcome/welcomepage?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center?WT.mc_id=AZ-MVP-5004796)
 - [Serverless design examples](https://learn.microsoft.com/en-us/dotnet/architecture/serverless/serverless-design-examples?WT.mc_id=AZ-MVP-5004796)
