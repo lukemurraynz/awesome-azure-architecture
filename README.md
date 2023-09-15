@@ -63,6 +63,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 [Back To Top](#contents)
 
 - [AI Lab project: Responsible AI dashboard](https://www.microsoft.com/en-us/ai/ai-lab-responsible-ai-dashboard?WT.mc_id=AZ-MVP-5004796)
+- [Azure OpenAI Landing Zone reference architecture](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102?WT.mc_id=AZ-MVP-5004796)
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
 - [Automation adoption strategy](https://learn.microsoft.com/en-us/power-platform/guidance/automation-coe/strategy?WT.mc_id=AZ-MVP-5004796)
 - [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/?WT.mc_id=AZ-MVP-5004796)
