@@ -376,6 +376,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 - [Azure Workbench](https://www.azureworkbench.com/)
 - [AzureFeeds](https://azurefeeds.com/)
+- [AzureFeeds Newsletter](https://newsletter.azurefeeds.com/join)
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Cloud Harmony](https://cloudharmony.com/)
 - [Cloud Journey](https://github.com/geeksintheweeds/cloud-journey)
