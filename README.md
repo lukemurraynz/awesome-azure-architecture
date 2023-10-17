@@ -425,7 +425,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 [Back To Top](#contents)
 
-- [AzureFeeds Newsletter](https://www.reddit.com/r/AZURE/](https://newsletter.azurefeeds.com/join)
+- [AzureFeeds Newsletter](https://newsletter.azurefeeds.com/join)
 
 ### Community Forums
 
