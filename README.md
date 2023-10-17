@@ -28,6 +28,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Articles](#community-articles)
   - [Tools](#community-tools)
   - [Repositories](#community-repositories)
+  - [Newsletter](#community-newsletter)
   - [Forums](#community-forums)
   - [Discord](#community-discord)
   - [Slack](#community-slack)
@@ -334,7 +335,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
 - [Microsoft Azure Tagging Conventions](https://luke.geek.nz/azure/microsoft-azure-tagging-conventions/)
-- [Microsoft Sentinel in Action: Architect, design, implement, and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
+- [Microsoft Sentinel in Action: Architect, design, implement and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
 - [Study Guide for Azure Architect exam AZ-305: Part 1 – Design a Governance Solution](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/)
 - [Study Guide for Azure Architect exam AZ-305: Part 2 – Design Authentication and Authorization Solutions](https://thecloudmarathoner.com/index.php/2022/02/12/study-guide-for-az-305-part-2-design-authentication-and-authorization-solutions/)
 - [WhatTheHack-collection of hackathons](https://github.com/microsoft/WhatTheHack)
@@ -416,6 +417,12 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
+
+### Community Newsletter
+
+[Back To Top](#contents)
+
+- [AzureFeeds Newsletter](https://www.reddit.com/r/AZURE/](https://newsletter.azurefeeds.com/join)
 
 ### Community Forums
 
