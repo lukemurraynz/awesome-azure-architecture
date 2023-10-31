@@ -465,6 +465,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [M365 Platform Community](https://pnp.github.io/#community)
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/?WT.mc_id=AZ-MVP-5004796)
 - [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall)
+- [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md)
 - [Terraform](https://aka.ms/AzureTerraform)
 - [Windows Customer Connection](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/join-the-windows-customer-connection-program/ba-p/3473775?WT.mc_id=AZ-MVP-5004796)
 
