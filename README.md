@@ -457,6 +457,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Arc](https://github.com/microsoft/azure_arc_community)
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
 - [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements)
+- [Azure DSC Community Call](https://dsccommunity.org/community_calls/)
 - [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
 - [Azure Landing Zone Community Calls](https://aka.ms/ALZ/CommunityCallAgenda)
 - [Azure Tech Groups](https://www.meetup.com/pro/azuretechgroups)
