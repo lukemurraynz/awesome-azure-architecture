@@ -468,6 +468,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall)
 - [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md)
 - [Terraform](https://aka.ms/AzureTerraform)
+- [Radius Community Meetings](https://github.com/radius-project/community#community-meetings)
 - [Windows Customer Connection](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/join-the-windows-customer-connection-program/ba-p/3473775?WT.mc_id=AZ-MVP-5004796)
 
 ### Community Lists
