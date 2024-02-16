@@ -482,4 +482,5 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
 - [Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide)
 - [Get Security Done](https://aka.ms/GSD)
+- [awesome-semantickernel](https://github.com/geffzhang/awesome-semantickernel)
 - [Marks List - Cybersecurity Resources frequently sent to customers and colleagues](https://aka.ms/MarksList)
