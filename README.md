@@ -479,6 +479,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Awesome Azure DevOps](https://github.com/johnlokerse/awesome-azure-devops)
 - [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
 - [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
+- [Awesome Entra](https://github.com/merill/awesome-entra)
 - [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
 - [Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide)
 - [Get Security Done](https://aka.ms/GSD)
