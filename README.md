@@ -204,7 +204,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ)
 - [Azure NoOps Accelerator](https://github.com/Azure/NoOpsAccelerator)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?WT.mc_id=AZ-MVP-5004796)
-- [Azure Proactive Resiliency Library (APRL)](https://azure.github.io/Azure-Proactive-Resiliency-Library/)
+- [Azure Proactive Resiliency Library (APRL)](https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2)
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 - [Azure Rapid Assessment Estimator](https://usdco.azurewebsites.net/Resources.aspx)
 - [Azure Resource Explorer](https://resources.azure.com/)
