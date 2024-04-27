@@ -32,7 +32,6 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
     - [Community Forums](#community-forums)
     - [Community Discord](#community-discord)
     - [Community Slack](#community-slack)
-    - [Community Lists](#community-lists)
 
 ## Official
 
@@ -437,18 +436,3 @@ Community delivered and supported Discord.
 Community delivered and supported Slack.
 
 - [Ask an Azure Architect](https://askazure.io/)
-
-### Community Lists
-
-Other community based lists.
-
-- [AWESOME Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep)
-- [Awesome Azure DevOps](https://github.com/johnlokerse/awesome-azure-devops)
-- [Awesome Azure SQL resources](https://github.com/yorek/awesome-azure-sql)
-- [AWESOME-Azure-Policy](https://github.com/globalbao/awesome-azure-policy)
-- [Awesome Entra](https://github.com/merill/awesome-entra)
-- [awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
-- [Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide)
-- [Get Security Done](https://aka.ms/GSD)
-- [awesome-semantickernel](https://github.com/geffzhang/awesome-semantickernel)
-- [Marks List - Cybersecurity Resources frequently sent to customers and colleagues](https://aka.ms/MarksList)
