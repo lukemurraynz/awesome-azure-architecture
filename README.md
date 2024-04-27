@@ -19,7 +19,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
   - [Official Announcements and Articles](#official-announcements-and-articles)
   - [Official Books](#official-books)
   - [Official Repositories and Tools](#official-repositories-and-tools)
-  - [Official Forums and Feedback](#fofficial-orums-and-feedback)
+  - [Official Forums and Feedback](#official-forums-and-feedback)
   - [Official Meetups & Calls](#official-meetups-calls)
   - [Official Podcasts](#official-podcasts)
 - [Community](#community)
