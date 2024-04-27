@@ -1,6 +1,6 @@
 ![Awesome Azure Architecture](./Awesome_Azure_Architecture.png)
 
-# Awesome Azure Architecture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Azure Architecture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 
@@ -156,12 +156,12 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Enterprise Cloud Strategy](https://azure.microsoft.com/en-us/resources/enterprise-cloud-strategy/?WT.mc_id=AZ-MVP-5004796)
 - [FinOps with Azure - Bringing FinOps to life through organizational and cultural alignment](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/?WT.mc_id=AZ-MVP-5004796)
 - [Get up and running with Kubernetes](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/?WT.mc_id=AZ-MVP-5004796)
-- [How to Choose the Right Azure Services for Your Applications—It’s Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
+- [How to Choose the Right Azure Services for Your Applications—It's Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
 - [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf?WT.mc_id=AZ-MVP-5004796)
 - [Migrating Linux to Microsoft Azure](https://azure.microsoft.com/en-us/resources/migrating-linux-to-microsoft-azure/?WT.mc_id=AZ-MVP-5004796)
 - [Migration SQL Server databases to Azure](https://download.microsoft.com/download/9/8/C/98C3E3C8-E016-443D-BE22-CFEB187DAFFA/Microsoft_Press_eBook_Migrating_SQL_Server_Databases_to_Azure_8.5x11.pdf?WT.mc_id=AZ-MVP-5004796)
 - [Rethinking Enterprise Storage](https://download.microsoft.com/download/8/5/6/85677038-09DE-4F20-AECD-C7A44B5A7E1E/679603ebook.pdf?WT.mc_id=AZ-MVP-5004796)
-- [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/resources/whitepapers/developer-guide-to-azure/?WT.mc_id=AZ-MVP-5004796)
+- [The Developer's Guide to Azure](https://azure.microsoft.com/en-us/resources/whitepapers/developer-guide-to-azure/?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Repositories and Tools
 
