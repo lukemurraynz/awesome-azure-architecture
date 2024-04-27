@@ -377,6 +377,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 - [Azure Services Periodic Table](https://azureperiodic.data3.com/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
+- [Azure TRE](https://microsoft.github.io/AzureTRE/latest/)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
 - [Azure Workbench](https://www.azureworkbench.com/)
 - [AzureFeeds](https://azurefeeds.com/)
