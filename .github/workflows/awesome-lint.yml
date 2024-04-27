@@ -2,8 +2,7 @@ name: Awesome List Linter
 
 on: 
   push:
-    branches:
-    - master
+    branches: ['*']
   workflow_dispatch:
 jobs:
   Awesome_Lint:
