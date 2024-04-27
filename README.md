@@ -13,7 +13,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 ## Contents
 
 - [Official](#official)
-  - [Official MSLearn](#microsoft-learn-modules)
+  - [Official Microsoft Learn Modules](#microsoft-learn-modules)
   - [Official Docs](#docs)
   - [Official Videos](#videos)
   - [Official Announcements and Articles](#announcements-and-articles)
