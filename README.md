@@ -12,32 +12,32 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ## Contents
 
-  - [Official](#official)
-    - [Official MSLearn](#mslearn)
-    - [Official Docs](#docs)
-    - [Official Videos](#videos)
-    - [Official Announcements and Articles](#announcements-and-articles)
-    - [Official Books](#books)
-    - [Official Repositories and Tools](#repositories-and-tools)
-    - [Official Forums and Feedback](#forums-and-feedback)
-    - [Official Meetups & Calls](#meetups-calls)
-    - [Official Podcasts](#podcasts)
-  - [Community](#community)
-    - [Community Videos](#community-videos)
-    - [Community Podcasts](#community-podcasts)
-    - [Community Books](#community-books)
-    - [Community Articles](#community-articles)
-    - [Community Tools](#community-repositories-and-tools)
-    - [Community Newsletter](#community-newsletter)
-    - [Community Forums](#community-forums)
-    - [Community Discord](#community-discord)
-    - [Community Slack](#community-slack)
+- [Official](#official)
+  - [Official MSLearn](#microsoft-learn-modules)
+  - [Official Docs](#docs)
+  - [Official Videos](#videos)
+  - [Official Announcements and Articles](#announcements-and-articles)
+  - [Official Books](#books)
+  - [Official Repositories and Tools](#repositories-and-tools)
+  - [Official Forums and Feedback](#forums-and-feedback)
+  - [Official Meetups & Calls](#meetups-calls)
+  - [Official Podcasts](#podcasts)
+- [Community](#community)
+  - [Community Videos](#community-videos)
+  - [Community Podcasts](#community-podcasts)
+  - [Community Books](#community-books)
+  - [Community Articles](#community-articles)
+  - [Community Repositories and Tools](#community-repositories-and-tools)
+  - [Community Newsletter](#community-newsletter)
+  - [Community Forums](#community-forums)
+  - [Community Discord](#community-discord)
+  - [Community Slack](#community-slack)
 
 ## Official
 
 > Links below are from official Microsoft sources, websites, and channels.
 
-### MSLearn
+### Microsoft Learn Modules
 
 Offical Microsoft Learn Learning modules.
 
