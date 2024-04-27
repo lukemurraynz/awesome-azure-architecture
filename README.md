@@ -13,15 +13,15 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 ## Contents
 
 - [Official](#official)
-  - [Official Microsoft Learn Modules](#microsoft-learn-modules)
-  - [Official Docs](#docs)
-  - [Official Videos](#videos)
-  - [Official Announcements and Articles](#announcements-and-articles)
-  - [Official Books](#books)
-  - [Official Repositories and Tools](#repositories-and-tools)
-  - [Official Forums and Feedback](#forums-and-feedback)
-  - [Official Meetups & Calls](#meetups-calls)
-  - [Official Podcasts](#podcasts)
+  - [Official Microsoft Learn Modules](#official-microsoft-learn-modules)
+  - [Official Docs](#official-docs)
+  - [Official Videos](#official-videos)
+  - [Official Announcements and Articles](#official-announcements-and-articles)
+  - [Official Books](#official-books)
+  - [Official Repositories and Tools](#official-repositories-and-tools)
+  - [Official Forums and Feedback](#fofficial-orums-and-feedback)
+  - [Official Meetups & Calls](#official-meetups-calls)
+  - [Official Podcasts](#official-podcasts)
 - [Community](#community)
   - [Community Videos](#community-videos)
   - [Community Podcasts](#community-podcasts)
@@ -37,7 +37,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 > Links below are from official Microsoft sources, websites, and channels.
 
-### Microsoft Learn Modules
+### Official Microsoft Learn Modules
 
 Offical Microsoft Learn Learning modules.
 
@@ -57,7 +57,7 @@ Offical Microsoft Learn Learning modules.
 - [Microsoft Partner - Training Center - Role Based](https://partner.microsoft.com/en-us/training/training-center?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 
-### Docs
+### Official Docs
 
 Offical Microsoft Learn, articles, blogs and resources.
 
@@ -123,7 +123,7 @@ Offical Microsoft Learn, articles, blogs and resources.
 - [Virtual Microsoft Datacenter Tour](https://news.microsoft.com/stories/microsoft-datacenter-tour/?WT.mc_id=AZ-MVP-5004796)
 - [Visual Studio subscriptions](https://azure.microsoft.com/en-us/services/developer-tools/visual-studio-subscriptions/?WT.mc_id=AZ-MVP-5004796)
 
-### Videos
+### Official Videos
 
 Offical Microsoft videos.
 
@@ -142,14 +142,14 @@ Offical Microsoft videos.
 - [Reactor](https://learn.microsoft.com/en-us/shows/reactor/?WT.mc_id=AZ-MVP-5004796)
 - [The DevOps Lab](https://learn.microsoft.com/en-us/shows/devops-lab/?WT.mc_id=AZ-MVP-5004796)
 
-### Announcements and Articles
+### Official Announcements and Articles
 
 Offical Microsoft feature and prouct anouncement pages and whats new.
 
 - [Azure Backup Center - Backups and Good Governance](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-backup-center-backups-and-good-governance/ba-p/2318843?WT.mc_id=AZ-MVP-5004796)
 - [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/?WT.mc_id=AZ-MVP-5004796)
 
-### Books
+### Official Books
 
 Offical Microsoft ebooks and whitepapers.
 
@@ -255,7 +255,7 @@ Offical Microsoft open-source initiatives and respositories.
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/?WT.mc_id=AZ-MVP-5004796)
 - [Virtual machines selector](https://azure.microsoft.com/en-gb/pricing/vm-selector/?WT.mc_id=AZ-MVP-5004796)
 
-### Forums and Feedback
+### Official Forums and Feedback
 
 Offical Microsoft product feedback sources.
 
@@ -266,7 +266,7 @@ Offical Microsoft product feedback sources.
 - [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/index.html?WT.mc_id=AZ-MVP-5004796)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure?WT.mc_id=AZ-MVP-5004796)
 
-### Meetups & Calls
+### Official Meetups & Calls
 
 Microsoft delivered community engagement meetings.
 
@@ -286,7 +286,7 @@ Microsoft delivered community engagement meetings.
 - [Radius Community Meetings](https://github.com/radius-project/community#community-meetings)
 - [Windows Customer Connection](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/join-the-windows-customer-connection-program/ba-p/3473775?WT.mc_id=AZ-MVP-5004796)
 
-### Podcasts
+### Official Podcasts
 
 Offical Microsoft podcasts.
 
