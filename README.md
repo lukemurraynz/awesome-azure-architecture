@@ -271,6 +271,7 @@ Official Microsoft product feedback sources.
 Microsoft delivered community engagement meetings.
 
 - [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community)
+- [Azure Kubernetes Service (AKS) Community](https://github.com/theakscommunity/aks-community-meetings)
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
 - [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements)
 - [Azure DSC Community Call](https://dsccommunity.org/community_calls/)
