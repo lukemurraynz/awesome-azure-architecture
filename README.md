@@ -1,6 +1,6 @@
 ![Awesome Azure Architecture](./Awesome_Azure_Architecture.png)
 
-# Awesome Azure Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
+# Awesome Microsoft Azure Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 
