@@ -39,7 +39,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 ### Official Microsoft Learn Modules
 
-Offical Microsoft Learn Learning modules.
+Official Microsoft Learn Learning modules.
 
 - [AZ-305: Design business continuity solutions](https://learn.microsoft.com/en-us/training/paths/design-business-continuity-solutions/?WT.mc_id=AZ-MVP-5004796)
 - [AZ-305: Design data storage solutions](https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/?WT.mc_id=AZ-MVP-5004796)
@@ -59,7 +59,7 @@ Offical Microsoft Learn Learning modules.
 
 ### Official Docs
 
-Offical Microsoft Learn, articles, blogs and resources.
+Official Microsoft Learn, articles, blogs, and resources.
 
 - [AI Lab project: Responsible AI dashboard](https://www.microsoft.com/en-us/ai/ai-lab-responsible-ai-dashboard?WT.mc_id=AZ-MVP-5004796)
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
@@ -102,7 +102,7 @@ Offical Microsoft Learn, articles, blogs and resources.
 - [Design for reliability](https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/design-checklist?WT.mc_id=AZ-MVP-5004796)
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging?WT.mc_id=AZ-MVP-5004796)
 - [DevOps checklist](https://learn.microsoft.com/en-us/azure/architecture/checklist/dev-ops?WT.mc_id=AZ-MVP-5004796)
-- [Hands on with AI](https://aidemos.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
+- [Hands-on with AI](https://aidemos.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 - [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/?WT.mc_id=AZ-MVP-5004796)
 - [Mainframe rehosting on Azure virtual machines](https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Assessments](https://learn.microsoft.com/en-us/assessments/?WT.mc_id=AZ-MVP-5004796)
@@ -125,7 +125,7 @@ Offical Microsoft Learn, articles, blogs and resources.
 
 ### Official Videos
 
-Offical Microsoft videos.
+Official Microsoft videos.
 
 - [AI Show](https://learn.microsoft.com/en-us/shows/ai-show/?WT.mc_id=AZ-MVP-5004796)
 - [Ask The Expert](https://learn.microsoft.com/en-us/shows/ask-the-expert/?WT.mc_id=AZ-MVP-5004796)
@@ -144,14 +144,14 @@ Offical Microsoft videos.
 
 ### Official Announcements and Articles
 
-Offical Microsoft feature and prouct anouncement pages and whats new.
+Official Microsoft feature and product announcement pages and what's new.
 
 - [Azure Backup Center - Backups and Good Governance](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-backup-center-backups-and-good-governance/ba-p/2318843?WT.mc_id=AZ-MVP-5004796)
 - [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Books
 
-Offical Microsoft ebooks and whitepapers.
+Official Microsoft ebooks and whitepapers.
 
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-500479)
 - [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/?WT.mc_id=AZ-MVP-5004796)
@@ -173,7 +173,7 @@ Offical Microsoft ebooks and whitepapers.
 
 ### Official Repositories and Tools
 
-Offical Microsoft open-source initiatives and respositories.
+Official Microsoft open-source initiatives and repositories.
 
 - [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator)
 - [AKS Release Status](https://releases.aks.azure.com/webpage/index.html#tabasia)
@@ -257,7 +257,7 @@ Offical Microsoft open-source initiatives and respositories.
 
 ### Official Forums and Feedback
 
-Offical Microsoft product feedback sources.
+Official Microsoft product feedback sources.
 
 - [Azure Connection Program (ACP)](https://aka.ms/ACPNomination)
 - [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
@@ -288,7 +288,7 @@ Microsoft delivered community engagement meetings.
 
 ### Official Podcasts
 
-Offical Microsoft podcasts.
+Official Microsoft podcasts.
 
 - [Getting Closer to Cloud](https://open.spotify.com/show/64CCVDW3yd7bQKRPJHI7CM?si=23975e78b419434e)
 - [Learn Azure in a Month of Lunches](https://audio.microsoft.com/azuremonthoflunches/watch/qzF4iAbmwq8rsQKvVxUscJ)
@@ -331,7 +331,7 @@ Community books, both physical and ebooks.
 - [Exam Ref AZ-304 Microsoft Azure Architect Design](https://www.bookdepository.com/Exam-Ref-AZ-304-Microsoft-Azure-Architect-Design-Ashish-Agrawal/9780137268894?ref=grid-view&qid=1641883617185&sr=1-8)
 - [Microsoft 365 Security for IT Pros](https://m365securitybook.com/)
 - [Microsoft Azure Architect Technologies and Design](https://www.bookdepository.com/Microsoft-Azure-Architect-Technologies-Design-Complete-Study-Guide-Exams-AZ-303-AZ-304-Benjamin-Perkins/9781119559535?ref=grid-view&qid=1641883617185&sr=1-10)
-- [Microsoft Azure Infrastructure Services for Architects : Designing Cloud Solutions](https://www.bookdepository.com/Microsoft-Azure-Infrastructure-Services-for-Architects-John-Savill/9781119596578?ref=grid-view&qid=1641883617185&sr=1-15)
+- [Microsoft Azure Infrastructure Services for Architects: Designing Cloud Solutions](https://www.bookdepository.com/Microsoft-Azure-Infrastructure-Services-for-Architects-John-Savill/9781119596578?ref=grid-view&qid=1641883617185&sr=1-15)
 
 ### Community Articles
 
@@ -348,13 +348,13 @@ Community blogs and articles.
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
 - [Microsoft Azure Tagging Conventions](https://luke.geek.nz/azure/microsoft-azure-tagging-conventions/)
-- [Microsoft Sentinel in Action: Architect, design, implement and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
+- [Microsoft Sentinel in Action: Architect, design, implement, and operate Microsoft Sentinel as the core of your security solutions](https://www.amazon.com/Microsoft-Sentinel-Action-Architect-implement/dp/1801815534/ref=sr_1_21?crid=HVH5XJ9I8ACC&keywords=Microsoft+Azure&qid=1641883536&s=books&sprefix=microsoft+azu%2Cstripbooks-intl-ship%2C370&sr=1-21)
 - [Study Guide for Azure Architect exam AZ-305: Part 1 – Design a Governance Solution](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/)
 - [Study Guide for Azure Architect exam AZ-305: Part 2 – Design Authentication and Authorization Solutions](https://thecloudmarathoner.com/index.php/2022/02/12/study-guide-for-az-305-part-2-design-authentication-and-authorization-solutions/)
 
 ### Community Repositories and Tools
 
-Community created tools and repositories.
+Community-created tools and repositories.
 
 - [ASTEROID Project (BETA)](https://azure.github.io/Asteroid/)
 - [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture)
@@ -412,14 +412,14 @@ Community created tools and repositories.
 
 ### Community Newsletter
 
-Community delivered newsletters.
+Community-delivered newsletters.
 
 - [AzureFeeds Newsletter](https://newsletter.azurefeeds.com/join)
 - [Entra.News](https://entra.news/)
 
 ### Community Forums
 
-Community delivered and supported forums.
+Community-delivered and supported forums.
 
 - [Reddit - Azure](https://www.reddit.com/r/AZURE/)
 - [Stack Overflow - Azure](https://stackoverflow.com/questions/tagged/azure)
