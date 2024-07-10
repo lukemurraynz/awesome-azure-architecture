@@ -263,7 +263,7 @@ Official Microsoft product feedback sources.
 - [Azure Connection Program (ACP)](https://aka.ms/ACPNomination)
 - [Azure Governance & Deployments](https://github.com/Azure/azure-policy#general-questions)
 - [Microsoft Azure - General Feedback](https://feedback.azure.com/d365community/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure Arc Community Monthly Meetup](https://githFub.com/microsoft/azure_arc_community)
+- [Adaptive Cloud Community (Azure Arc)](https://github.com/microsoft/azure_arc_community)
 - [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/index.html?WT.mc_id=AZ-MVP-5004796)
 - [Tech Community - Azure](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure?WT.mc_id=AZ-MVP-5004796)
 
