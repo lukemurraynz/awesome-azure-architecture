@@ -391,7 +391,6 @@ Community-created tools and repositories.
 - [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 - [AzTools](https://az.nitor.app/)
 - [Cloud Custodian](https://cloudcustodian.io/)
-- [Cloud Harmony](https://cloudharmony.com/)
 - [Cloud Journey](https://github.com/geeksintheweeds/cloud-journey)
 - [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
 - [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights)
