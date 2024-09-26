@@ -365,7 +365,6 @@ Community-created tools and repositories.
 - [Azure Arc Jumpstart (Arcbox)](https://azurearcjumpstart.io/azure_jumpstart_arcbox/full/)
 - [Azure Charts](https://azurecharts.com/)
 - [Azure Composite SLA Estimator](https://slaestimator.aztoso.com/)
-- [Azure Depreciation Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
 - [Azure Diagrams](https://azurediagrams.com/)
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
