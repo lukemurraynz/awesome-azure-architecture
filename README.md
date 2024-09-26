@@ -411,7 +411,7 @@ Community-created tools and repositories.
 - [The Azure Kubernetes Service Checklist](https://www.the-aks-checklist.com/)
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [WhatTheHack-collection of hackathons](https://github.com/microsoft/WhatTheHack)
-- [[cmd.ms] the Microsoft Cloud command line](https://cmd.ms/)
+- [cmd.ms - the Microsoft Cloud command line](https://cmd.ms/)
 
 ### Community Newsletter
 
