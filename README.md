@@ -396,7 +396,6 @@ Community-created tools and repositories.
 - [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights)
 - [Docs Update Tracker](https://docsupdatetracker.net/index.html)
 - [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming)
-- [Managed Azure Bastion Savings Calculator](http://calc.microcloudservice.com/)
 - [Microsoft Azure - Center for Internet Security](https://www.cisecurity.org/benchmark/azure/)
 - [Microsoft Azure Security Control Mappings to MITRE ATT&CK](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
 - [Microsoft Portals](https://msportals.io/)
