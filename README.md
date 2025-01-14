@@ -160,7 +160,6 @@ Official Microsoft ebooks and whitepapers.
 - [Azure SQL Resource Kit](https://azure.microsoft.com/en-us/resources/azure-sql-resource-kit/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Migration and Modernization with Microsoft Azure e-book](https://azure.microsoft.com/en-us/resources/cloud-migration-and-modernization-with-microsoft-azure-e-book/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Migration Simplified](https://azure.microsoft.com/en-us/resources/cloud-migration-simplified/?WT.mc_id=AZ-MVP-5004796)
-- [Cloud Practice Playbooks](https://partner.microsoft.com/en-us/campaigns/cloud-practice-playbooks)
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/?WT.mc_id=AZ-MVP-5004796)
 - [Enterprise Cloud Strategy](https://azure.microsoft.com/en-us/resources/enterprise-cloud-strategy/?WT.mc_id=AZ-MVP-5004796)
 - [FinOps with Azure - Bringing FinOps to life through organizational and cultural alignment](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/?WT.mc_id=AZ-MVP-5004796)
