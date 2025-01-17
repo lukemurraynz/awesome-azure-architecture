@@ -13,7 +13,7 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 ## Contents
 
 - [Official](#official)
-  - [Official Microsoft Learn Modules](#official-microsoft-learn-modules)
+  - [Official Microsoft Learn paths](#official-microsoft-learn-paths)
   - [Official Docs](#official-docs)
   - [Official Videos](#official-videos)
   - [Official Announcements and Articles](#official-announcements-and-articles)
@@ -37,34 +37,37 @@ This list can be found at [aka.ms/AwesomeAzureArchitecture](https://aka.ms/Aweso
 
 > Links below are from official Microsoft sources, websites, and channels.
 
-### Official Microsoft Learn Modules
+### Official Microsoft Learn paths
 
-Official Microsoft Learn Learning modules.
+Official Microsoft Learn Learning paths.
 
-- [AZ-305: Design business continuity solutions](https://learn.microsoft.com/training/paths/design-business-continuity-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-305: Design data storage solutions](https://learn.microsoft.com/training/paths/design-data-storage-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-305: Design identity, governance, and monitor solutions](https://learn.microsoft.com/training/paths/design-identity-governance-monitor-solutions/?WT.mc_id=AZ-MVP-5004796)
-- [AZ-305: Design infrastructure solutions](https://learn.microsoft.com/training/paths/design-infranstructure-solutions/?WT.mc_id=AZ-MVP-5004796)
+- [Administering Windows Server Hybrid Core Infrastructure](https://learn.microsoft.com/training/courses/az-800t00?WT.mc_id=AZ-MVP-5004796)
+- [AI Learning Hub](https://learn.microsoft.com/ai/?tabs=developer&WT.mc_id=AZ-MVP-5004796)
+- [Automating Administration with PowerShell](https://learn.microsoft.com/training/courses/az-040t00?WT.mc_id=AZ-MVP-5004796)
 - [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/?WT.mc_id=AZ-MVP-5004796)
 - [AZ-720: Azure Support Engineer for Connectivity Specialty](https://learn.microsoft.com/training/paths/azure-support-engineer-for-connectivity-specialty/?WT.mc_id=AZ-MVP-5004796)
-- [Control Azure spending and manage bills with Microsoft Cost Management + Billing](https://learn.microsoft.com/training/paths/control-spending-manage-bills/?WT.mc_id=AZ-MVP-5004796)
-- [Describe core Azure architectural components](https://learn.microsoft.com/training/modules/azure-architecture-fundamentals/?WT.mc_id=AZ-MVP-5004796)
+- [Configuring and Operating Microsoft Azure Virtual Desktop](https://learn.microsoft.com/training/courses/az-140t00?WT.mc_id=AZ-MVP-5004796)
 - [Design an enterprise governance strategy](https://learn.microsoft.com/training/modules/enterprise-governance/?WT.mc_id=AZ-MVP-5004796)
+- [Designing and Implementing Platform Engineering](https://learn.microsoft.com/training/paths/designing-implementing-platform-engineering/?WT.mc_id=AZ-MVP-5004796)
+- [Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/training/courses/az-305t00?WT.mc_id=AZ-MVP-5004796)
+- [Get started with FinOps](https://learn.microsoft.com/en-gb/training/modules/get-started-with-finops/?WT.mc_id=AZ-MVP-5004796)
 - [Linux on Azure](https://learn.microsoft.com/learn/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure - Microsoft Learn](https://learn.microsoft.com/training/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure Connected Learning Experience (CLX)](https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa?wt.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Administrator](https://learn.microsoft.com/training/courses/az-104t00?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/training/courses/az-900t00?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Certifications](https://learn.microsoft.com/certifications/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Partner - Training Center - Role Based](https://partner.microsoft.com/en-us/training/training-center?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
+- [Plans on Microsoft Learn](https://learn.microsoft.com/training/support/plans?WT.mc_id=AZ-MVP-5004796)
+
 
 ### Official Docs
 
 Official Microsoft Learn, articles, blogs, and resources.
 
-- [AKS baseline reference architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks?WT.mc_id=AZ-MVP-5004796)
 - [AI Lab project: Responsible AI dashboard](https://www.microsoft.com/en-us/ai/ai-lab-responsible-ai-dashboard?WT.mc_id=AZ-MVP-5004796)
+- [AKS baseline reference architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks?WT.mc_id=AZ-MVP-5004796)
 - [Architect multitenant solutions on Azure](https://aka.ms/multitenancy?WT.mc_id=AZ-MVP-5004796)
 - [Automation adoption strategy](https://learn.microsoft.com/power-platform/guidance/automation-coe/strategy?WT.mc_id=AZ-MVP-5004796)
+- [Azure application architecture fundamentals](https://learn.microsoft.com/azure/architecture/guide/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Arc](https://azure.microsoft.com/en-us/services/azure-arc/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Arc landing zone accelerator for hybrid and multicloud](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/hybrid/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Azure Architecture Center](https://learn.microsoft.com/azure/architecture/?WT.mc_id=AZ-MVP-5004796)
@@ -74,7 +77,7 @@ Official Microsoft Learn, articles, blogs, and resources.
 - [Azure compliance documentation](https://learn.microsoft.com/azure/compliance/?WT.mc_id=AZ-MVP-5004796)
 - [Azure confidential computing](https://azure.microsoft.com/en-us/solutions/confidential-compute/?WT.mc_id=AZ-MVP-5004796#overview)
 - [Azure Database Migration Guides](https://learn.microsoft.com/data-migration/?WT.mc_id=AZ-MVP-5004796)
-- [Azure for Partners](https://partner.microsoft.com/en-us/solutions/azure)
+- [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/?view=azure-devops&WT.mc_id=AZ-MVP-5004796)
 - [Azure Governance](https://learn.microsoft.com/azure/governance/?WT.mc_id=AZ-MVP-5004796)
 - [Azure IP advantage](https://azure.microsoft.com/en-us/overview/azure-ip-advantage/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Lighthouse](https://learn.microsoft.com/azure/lighthouse/?WT.mc_id=AZ-MVP-5004796)
@@ -88,40 +91,38 @@ Official Microsoft Learn, articles, blogs, and resources.
 - [Azure Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/?WT.mc_id=AZ-MVP-5004796)
 - [Azure sustainability](https://azure.microsoft.com/en-gb/global-infrastructure/sustainability/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Table storage design](https://learn.microsoft.com/azure/storage/tables/table-storage-design?WT.mc_id=AZ-MVP-5004796)
-- [Azure Virtual Datacenter](https://learn.microsoft.com/azure/cloud-adoption-framework/resources/vdc?WT.mc_id=AZ-MVP-5004796)
-- [Azure VMware Solution landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Azure VMware Solution](https://azure.microsoft.com/en-us/services/azure-vmware/?WT.mc_id=AZ-MVP-5004796)
-- [Azure application architecture fundamentals](https://learn.microsoft.com/azure/architecture/guide/?WT.mc_id=AZ-MVP-5004796)
-- [Azure architecture icons](https://learn.microsoft.com/azure/architecture/icons/?WT.mc_id=AZ-MVP-5004796)
+- [Azure VMware Solution landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Best practices in cloud applications](https://learn.microsoft.com/azure/architecture/best-practices/index-best-practices?WT.mc_id=AZ-MVP-5004796)
+- [Cloud Adoption Framework enterprise-scale landing zones](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/enterprise-scale/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Design Patterns](https://learn.microsoft.com/azure/architecture/patterns/?WT.mc_id=AZ-MVP-5004796)
-- [Cloud Services Due Diligence Checklist](https://www.microsoft.com/en-nz/trust-center/compliance/due-diligence-checklist?WT.mc_id=AZ-MVP-5004796)
 - [Cloud economics](https://azure.microsoft.com/solutions/cloud-economics/?WT.mc_id=AZ-MVP-5004796#overview)
+- [Cloud Services Due Diligence Checklist](https://www.microsoft.com/en-nz/trust-center/compliance/due-diligence-checklist?WT.mc_id=AZ-MVP-5004796)
 - [Compute decision tree](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=AZ-MVP-5004796)
 - [Create an Azure support ticket](https://azure.microsoft.com/en-us/support/create-ticket/?WT.mc_id=AZ-MVP-5004796)
 - [Data decision tree](https://learn.microsoft.com/azure/architecture/guide/technology-choices/data-store-decision-tree?WT.mc_id=AZ-MVP-5004796)
 - [Design for reliability](https://learn.microsoft.com/azure/architecture/framework/resiliency/design-checklist?WT.mc_id=AZ-MVP-5004796)
 - [Develop your naming and tagging strategy for Azure resources](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging?WT.mc_id=AZ-MVP-5004796)
-- [DevOps checklist](https://learn.microsoft.com/azure/architecture/checklist/dev-ops?WT.mc_id=AZ-MVP-5004796)
-- [Hands-on with AI](https://aidemos.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
-- [Hardware innovation for the cloud](https://azure.microsoft.com/en-us/global-infrastructure/hardware-innovation/?WT.mc_id=AZ-MVP-5004796)
 - [Mainframe rehosting on Azure virtual machines](https://learn.microsoft.com/azure/virtual-machines/workloads/mainframe-rehosting/overview?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure Bounty Program](https://microsoft.com/en-us/msrc/bounty-microsoft-azure?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure Immersion Workshops](https://partner.microsoft.com/en-nz/solutions/azure/aiw?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Bounty Program](https://www.microsoft.com/en-us/msrc/bounty-microsoft-azure?WT.mc_id=AZ-MVP-5004796&oneroute=true)
+- [Microsoft Azure for partners](https://partner.microsoft.com/en-us/partnership/azure-for-partners?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Support](https://azure.microsoft.com/en-us/support/options/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/architecture/framework/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Partner Resources](https://microsoft.github.io/PartnerResources/)
 - [Microsoft Product/Licensing Terms](https://www.microsoft.com/licensing/terms/welcome/welcomepage?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center?WT.mc_id=AZ-MVP-5004796)
+- [Recommendations for fostering DevOps culture](https://learn.microsoft.com/azure/well-architected/operational-excellence/devops-culture?WT.mc_id=AZ-MVP-5004796)
 - [Serverless design examples](https://learn.microsoft.com/dotnet/architecture/serverless/serverless-design-examples?WT.mc_id=AZ-MVP-5004796)
 - [Solutions and Training for Azure Active Directory B2C](https://learn.microsoft.com/azure/active-directory-b2c/solution-articles?WT.mc_id=AZ-MVP-5004796)
 - [Subscription decision guide](https://learn.microsoft.com/azure/cloud-adoption-framework/decision-guides/subscriptions/?WT.mc_id=AZ-MVP-5004796)
 - [Ten design principles for Azure applications](https://learn.microsoft.com/azure/architecture/guide/design-principles/?WT.mc_id=AZ-MVP-5004796)
 - [Virtual Microsoft Datacenter Tour](https://news.microsoft.com/stories/microsoft-datacenter-tour/?WT.mc_id=AZ-MVP-5004796)
 - [Visual Studio subscriptions](https://azure.microsoft.com/en-us/services/developer-tools/visual-studio-subscriptions/?WT.mc_id=AZ-MVP-5004796)
+- [What is platform engineering?](https://learn.microsoft.com/platform-engineering/what-is-platform-engineering?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Videos
 
