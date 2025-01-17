@@ -158,21 +158,17 @@ Official Microsoft feature and product announcement pages and what's new.
 
 Official Microsoft ebooks and whitepapers.
 
-- [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-500479)
-- [Azure for Architects](https://azure.microsoft.com/en-us/resources/azure-for-architects/?WT.mc_id=AZ-MVP-5004796)
-- [Azure Resiliency – Business Continuity and Disaster Recovery](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/?WT.mc_id=AZ-MVP-5004796)
+- [Analyst reports, e-books, and white papers](https://azure.microsoft.com/resources/research/?WT.mc_id=AZ-MVP-5004796)
+- [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-500479)
+- [Azure for Architects](https://azure.microsoft.com/resources/azure-for-architects/?WT.mc_id=AZ-MVP-5004796)
 - [Azure SQL Resource Kit](https://azure.microsoft.com/en-us/resources/azure-sql-resource-kit/?WT.mc_id=AZ-MVP-5004796)
 - [Cloud Migration and Modernization with Microsoft Azure e-book](https://azure.microsoft.com/en-us/resources/cloud-migration-and-modernization-with-microsoft-azure-e-book/?WT.mc_id=AZ-MVP-5004796)
-- [Cloud Migration Simplified](https://azure.microsoft.com/en-us/resources/cloud-migration-simplified/?WT.mc_id=AZ-MVP-5004796)
-- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/?WT.mc_id=AZ-MVP-5004796)
-- [Enterprise Cloud Strategy](https://azure.microsoft.com/en-us/resources/enterprise-cloud-strategy/?WT.mc_id=AZ-MVP-5004796)
 - [FinOps with Azure - Bringing FinOps to life through organizational and cultural alignment](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/?WT.mc_id=AZ-MVP-5004796)
-- [Get up and running with Kubernetes](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/?WT.mc_id=AZ-MVP-5004796)
 - [How to Choose the Right Azure Services for Your Applications—It's Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
-- [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf?WT.mc_id=AZ-MVP-5004796)
 - [Migrating Linux to Microsoft Azure](https://azure.microsoft.com/en-us/resources/migrating-linux-to-microsoft-azure/?WT.mc_id=AZ-MVP-5004796)
 - [Migration SQL Server databases to Azure](https://download.microsoft.com/download/9/8/C/98C3E3C8-E016-443D-BE22-CFEB187DAFFA/Microsoft_Press_eBook_Migrating_SQL_Server_Databases_to_Azure_8.5x11.pdf?WT.mc_id=AZ-MVP-5004796)
-- [New Zealand Cloud Region Customer Playbook](https://aka.ms/nzcloudregionplaybook)
+- [New Zealand Cloud Region Customer Playbook](https://aka.ms/nzcloudregionplaybook?WT.mc_id=AZ-MVP-5004796)
+- [New Zealand Cloud Region Partner Playbook](http://aka.ms/nzplaybook?WT.mc_id=AZ-MVP-5004796)
 - [Rethinking Enterprise Storage](https://download.microsoft.com/download/8/5/6/85677038-09DE-4F20-AECD-C7A44B5A7E1E/679603ebook.pdf?WT.mc_id=AZ-MVP-5004796)
 - [The Developer's Guide to Azure](https://azure.microsoft.com/en-us/resources/whitepapers/developer-guide-to-azure/?WT.mc_id=AZ-MVP-5004796)
 
