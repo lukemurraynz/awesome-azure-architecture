@@ -150,9 +150,9 @@ Official Microsoft videos.
 ### Official Announcements and Articles
 
 Official Microsoft feature and product announcement pages and what's new.
-
-- [Azure Backup Center - Backups and Good Governance](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-backup-center-backups-and-good-governance/ba-p/2318843?WT.mc_id=AZ-MVP-5004796)
-- [On Prem To the Cloud: Everything As Code](https://devblogs.microsoft.com/devops/on-prem-to-the-cloud-everything-as-code-ep-4/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Updates](https://azure.microsoft.com/updates)
+- [What's new in the Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/whats-new?WT.mc_id=AZ-MVP-5004796)
+- [What's new in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/get-started/whats-new?WT.mc_id=AZ-MVP-5004796)
 
 ### Official Books
 
