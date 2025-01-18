@@ -303,7 +303,7 @@ Community books, both physical and ebooks.
 - [Azure Architecture Explained](https://www.packtpub.com/product/azure-architecture-explained/9781837634811)
 - [Azure Cookbook](https://bpbonline.com/products/azure-cookbook-1)
 - [Azure Security](https://www.manning.com/books/azure-security-2)
-- [Cloud Observability with Azure Monitor](https://www.packtpub.com/product/cloud-observability-with-azure-monitor-9781835881194?)
+- [Cloud Observability with Azure Monitor](https://www.packtpub.com/en-us/product/cloud-observability-with-azure-monitor-9781835881194)
 - [Cloud Solution Architect's Career Master Plan: Proven techniques and effective tips to help you become a successful solution architect](https://www.amazon.com/Cloud-Solution-Architects-Career-Master/dp/1805129716)
 - [Microsoft 365 Security for IT Pros](https://m365securitybook.com/)
 
