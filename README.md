@@ -269,7 +269,7 @@ Official Microsoft podcasts.
 - [Hybrid Cloud Partners](https://news.microsoft.com/podcasts/hybrid-cloud-partners?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Cloud Executive Enablement Series](https://shows.acast.com/microsoft-cloud-executive-enablement-series)
 - [Microsoft Research Podcast](https://www.microsoft.com/en-us/research/podcast?WT.mc_id=AZ-MVP-5004796)
-- [Scott & Mark Learn To...](https://shows.acast.com/scott-and-mark-learn-to)
+- [Scott & Mark Learn To](https://shows.acast.com/scott-and-mark-learn-to)
 - [The Future of Infrastructure](https://wwps.microsoft.com/blog/future-of-infrastructure-podcast-series-welcome?WT.mc_id=AZ-MVP-5004796)
 
 ## Community
