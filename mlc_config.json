@@ -1,4 +1,22 @@
 {
+  "ignorePatterns": [
+    {
+      "pattern": "http://aka.ms/nzplaybook"
+    },
+        {
+      "pattern": "https://news.microsoft.com/stories/microsoft-datacenter-tour"
+    },
+    {
+      "pattern": "https://news.microsoft.com/podcasts/hybrid-cloud-partners"
+    },
+    {
+      "pattern": "open.spotify.com/*"
+    },
+    {
+      "pattern": "https://www.reddit.com/r/AZURE/"
+    }
+  ],
+
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 5,
