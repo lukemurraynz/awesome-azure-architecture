@@ -183,6 +183,7 @@ Official Microsoft open-source initiatives and repositories.
 - [AKS Release Status](https://releases.aks.azure.com/webpage/index.html#tabasia)
 - [ALZ Bicep](https://github.com/Azure/ALZ-Bicep)
 - [ALZ-PowerShell-Module](https://github.com/Azure/ALZ-PowerShell-Module)
+- [Azure Local Sizing Tool](https://azurelocalsolutions.azure.microsoft.com/#/sizer)
 - [APIM(Azure API Management)Love](https://aka.ms/apimlove)
 - [ARO (Azure Red Hat Openshift) Landing Zone Accelerator](https://github.com/Azure/aro-Landing-Zone-Accelerator)
 - [AVDAccelerator](https://github.com/Azure/avdaccelerator)
