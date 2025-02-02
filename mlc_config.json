@@ -15,6 +15,10 @@
     {
       "pattern": "https://www.reddit.com/r/AZURE/"
     }
+    ,
+    {
+      "pattern": "https://azurelocalsolutions.azure.microsoft.com/#/sizer"
+    }
   ],
 
   "timeout": "20s",
