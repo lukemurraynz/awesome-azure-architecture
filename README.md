@@ -164,7 +164,6 @@ Official Microsoft ebooks and whitepapers.
 - [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-500479)
 - [Azure for Architects](https://azure.microsoft.com/resources/azure-for-architects/?WT.mc_id=AZ-MVP-5004796)
 - [Azure SQL Resource Kit](https://azure.microsoft.com/en-us/resources/azure-sql-resource-kit/?WT.mc_id=AZ-MVP-5004796)
-- [Cloud Migration and Modernization with Microsoft Azure e-book](https://azure.microsoft.com/en-us/resources/cloud-migration-and-modernization-with-microsoft-azure-e-book/?WT.mc_id=AZ-MVP-5004796)
 - [FinOps with Azure - Bringing FinOps to life through organizational and cultural alignment](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/?WT.mc_id=AZ-MVP-5004796)
 - [How to Choose the Right Azure Services for Your Applications—It's Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
 - [Migrating Linux to Microsoft Azure](https://azure.microsoft.com/en-us/resources/migrating-linux-to-microsoft-azure/?WT.mc_id=AZ-MVP-5004796)
