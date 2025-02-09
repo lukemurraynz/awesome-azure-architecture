@@ -166,6 +166,7 @@ Official Microsoft ebooks and whitepapers.
 - [Azure SQL Resource Kit](https://azure.microsoft.com/en-us/resources/azure-sql-resource-kit/?WT.mc_id=AZ-MVP-5004796)
 - [FinOps with Azure - Bringing FinOps to life through organizational and cultural alignment](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/?WT.mc_id=AZ-MVP-5004796)
 - [How to Choose the Right Azure Services for Your Applications—It's Not A or B E-book Series](https://azure.microsoft.com/en-au/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/?WT.mc_id=AZ-MVP-5004796)
+- [Migration Linux to Microsoft Azure](https://info.microsoft.com/ww-landing-migrating-linux-to-microsoft-azure.html?WT.mc_id=AZ-MVP-5004796)
 - [Migration SQL Server databases to Azure](https://download.microsoft.com/download/9/8/C/98C3E3C8-E016-443D-BE22-CFEB187DAFFA/Microsoft_Press_eBook_Migrating_SQL_Server_Databases_to_Azure_8.5x11.pdf?WT.mc_id=AZ-MVP-5004796)
 - [New Zealand Cloud Region Customer Playbook](https://aka.ms/nzcloudregionplaybook?WT.mc_id=AZ-MVP-5004796)
 - [New Zealand Cloud Region Partner Playbook](http://aka.ms/nzplaybook?WT.mc_id=AZ-MVP-5004796)
