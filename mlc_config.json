@@ -18,7 +18,11 @@
     ,
     {
       "pattern": "https://azurelocalsolutions.azure.microsoft.com/#/sizer"
+    },
+   {
+      "pattern": "https://www.microsoft.com/licensing/terms/welcome/welcomepage?WT.mc_id=AZ-MVP-5004796"
     }
+      
   ],
 
   "timeout": "20s",
