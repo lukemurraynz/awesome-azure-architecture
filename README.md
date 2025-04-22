@@ -326,6 +326,7 @@ Community blogs and articles.
 ### Community Repositories and Tools
 
 Community-created tools and repositories.
+
 - [ASTEROID Project (BETA)](https://azure.github.io/Asteroid/)
 - [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture)
 - [Azure Architecture - Solution Requirement Consideration Checklist](https://luke.geek.nz/azure/azure-architecture-solution-requirement-consideration-checklist/)
@@ -400,3 +401,5 @@ Community delivered and supported Discord.
 Community delivered and supported Slack.
 
 - [Ask an Azure Architect](https://askazure.io/)
+- [Azure Architects Slack](https://join.slack.com/t/azurearchitects/shared_invite/zt-d8zhvx4d-NCZVYGnJgTVJRfYMmpsRXQ)
+- [Kubernetes Community Slack - #kubernetes-azure channel](https://kubernetes.slack.com/messages/C5HJXTT9Q/)
