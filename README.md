@@ -395,9 +395,6 @@ Community delivered and supported Discord.
 - [Microsoft Community](https://discord.gg/microsoft)
 - [PowerShell](https://discord.gg/powershell)
 - [Reddit - Azure](https://discord.gg/cMxFErsEDB)
-- [Azure PT-BR Brazilian Discord Community](https://discord.gg/bq67PgZn9p)
-- [Azure Dev Support](https://discord.gg/7a3Jarhdsg)
-- [Microsoft Developer Community](https://discord.gg/xS5cBA8z)
 
 ### Community Slack
 
