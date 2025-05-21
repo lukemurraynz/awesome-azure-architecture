@@ -337,6 +337,7 @@ Community-created tools and repositories.
 - [Azure Composite SLA Estimator](https://slaestimator.aztoso.com/)
 - [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
 - [Azure Digital Natives Checklist](https://azdnguide.com/)
+- [DevBox Accelerator](https://evilazaro.github.io/DevExp-DevBox/)
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure IPAM](https://azure.github.io/ipam/#/)
