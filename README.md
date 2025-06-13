@@ -177,6 +177,7 @@ Official Microsoft ebooks and whitepapers.
 
 Official Microsoft open-source initiatives and repositories.
 
+- [AI Gateway](https://azure-samples.github.io/AI-Gateway/)
 - [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline)
 - [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator)
 - [Alert Toolkit](https://github.com/microsoft/manageability-toolkits)
