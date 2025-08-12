@@ -374,6 +374,7 @@ Community-created tools and repositories.
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [Azure TRE](https://microsoft.github.io/AzureTRE/latest/)
 - [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
+- [Awesome Azure Local](https://github.com/schmittnieto/awesome-azure-local)
 - [Cloud Custodian](https://cloudcustodian.io/)
 - [Cloud Net Draw](https://www.cloudnetdraw.com/)
 - [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
