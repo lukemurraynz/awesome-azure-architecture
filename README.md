@@ -343,8 +343,10 @@ Community blogs and articles.
 
 ### Community Repositories and Tools
 
+
 Community-created tools and repositories.
 
+- [Azure Network Latency Dashboard](https://latency.azure.cloud63.fr/)
 - [ASTEROID Project (BETA)](https://azure.github.io/Asteroid/)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
 - [AzAdvertizer](https://www.azadvertizer.net/)
