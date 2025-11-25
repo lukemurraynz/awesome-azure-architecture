@@ -58,7 +58,6 @@ Official Microsoft Learn Learning paths.
 - [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
 - [Plans on Microsoft Learn](https://learn.microsoft.com/training/support/plans?WT.mc_id=AZ-MVP-5004796)
 
-
 ### Official Docs
 
 Official Microsoft Learn, articles, blogs, and resources.
@@ -175,6 +174,7 @@ Official Microsoft videos.
 ### Official Announcements and Articles
 
 Official Microsoft feature and product announcement pages and what's new.
+
 - [Azure Updates](https://azure.microsoft.com/updates)
 - [What's new in the Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/whats-new?WT.mc_id=AZ-MVP-5004796)
 - [What's new in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/get-started/whats-new?WT.mc_id=AZ-MVP-5004796)
@@ -214,14 +214,11 @@ Official Microsoft open-source initiatives and repositories.
 - [Azure Backup Detailed Estimate](https://aka.ms/AzureBackupDetailedEstimates?WT.mc_id=AZ-MVP-5004796)
 - [Azure Certification Poster](http://aka.ms/traincertposter/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT)
-- [Azure Container Apps Workshop](https://aka.ms/aca-workshop)
 - [Azure DevOps Marketplace](https://marketplace.visualstudio.com/azuredevops/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Hybrid Use Benefit Calculator](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/?WT.mc_id=AZ-MVP-5004796#calculator)
-- [Azure Integration Services Landing Zone Accelerator](https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator)
 - [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ)
 - [Azure Landing Zones Library Documentation](https://azure.github.io/Azure-Landing-Zones-Library/)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/?WT.mc_id=AZ-MVP-5004796)
-- [Azure Proactive Resiliency Library (APRL)](https://azure.github.io/Azure-Proactive-Resiliency-Library-v2/welcome/)
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 - [Azure Resource Explorer](https://resources.azure.com/)
 - [Azure Review Checklists](https://github.com/Azure/review-checklists)
@@ -231,7 +228,6 @@ Official Microsoft open-source initiatives and repositories.
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 - [Azure Verified Modules](https://aka.ms/AVM)
-- [Azure VMware Solution landing zone accelerator](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/enterprise-scale-landing-zone?WT.mc_id=AZ-MVP-5004796)
 - [Azure X](https://twitter.com/Azure)
 - [Bicep subscription vending](https://github.com/Azure/bicep-lz-vending)
 - [Business Continuity Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/introducing-the-azure-business-continuity-guide/ba-p/3905424?WT.mc_id=AZ-MVP-5004796)
@@ -271,7 +267,6 @@ Microsoft delivered community engagement meetings.
 - [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+)
 - [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements)
 - [Azure DSC Community Call](https://dsccommunity.org/community_calls/)
-- [Azure Integration Services landing zone accelerator](https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator)
 - [Azure Kubernetes Service (AKS) Community](https://github.com/theakscommunity/aks-community-meetings)
 - [Azure Landing Zone Community Calls](https://aka.ms/ALZ/CommunityCallAgenda)
 - [Azure Static WebApps - Community Livestream](https://aka.ms/swa/community/standups)
@@ -348,7 +343,6 @@ Community blogs and articles.
 - [Study Guide for Azure Architect exam AZ-305: Part 2 - Design Authentication and Authorization Solutions](https://thecloudmarathoner.com/index.php/2022/02/12/study-guide-for-az-305-part-2-design-authentication-and-authorization-solutions/)
 
 ### Community Repositories and Tools
-
 
 Community-created tools and repositories.
 
