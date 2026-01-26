@@ -226,6 +226,7 @@ Official Microsoft open-source initiatives and repositories.
 - [Azure Sovereign Landing Zone (SLZ)](https://learn.microsoft.com/industry/sovereignty/slz-overview?WT.mc_id=AZ-MVP-5004796)
 - [Azure Status](https://status.azure.com/status?WT.mc_id=AZ-MVP-5004796)
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/?WT.mc_id=AZ-MVP-5004796)
+- [What Broke Today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services (including Azure) with real-time Telegram alerts
 - [Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 - [Azure Verified Modules](https://aka.ms/AVM)
 - [Azure X](https://twitter.com/Azure)
