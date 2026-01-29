@@ -236,6 +236,7 @@ Official Microsoft open-source initiatives and repositories.
 - [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone)
 - [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme)
 - [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale)
+- [Microsoft Applied Skills Poster](https://aka.ms/appliedskillsposter?sharingId=MVP_473698)
 - [Microsoft Assessments](https://learn.microsoft.com/assessments/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Azure - Feedback](https://feedback.azure.com/d365community)
 - [Microsoft Datacenter Migration Program Kit (DCM Kit)](https://github.com/microsoft/dcmkit)
