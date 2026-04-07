@@ -399,6 +399,8 @@ Community-created tools and repositories.
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [WhatTheHack-collection of hackathons](https://aka.ms/wth)
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ### Community Newsletter
 
 Community-delivered newsletters.
