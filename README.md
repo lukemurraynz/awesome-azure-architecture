@@ -242,7 +242,7 @@ Official Microsoft open-source initiatives and repositories.
 - [Azure Review Checklists](https://github.com/Azure/review-checklists)
 - [Azure Site Recovery Deployment Planner](https://learn.microsoft.com/azure/site-recovery/site-recovery-deployment-planner/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Sovereign Landing Zone (SLZ)](https://learn.microsoft.com/industry/sovereignty/slz-overview?WT.mc_id=AZ-MVP-5004796)
-- [Azure status](https://azure.status.microsoft/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Status](https://azure.status.microsoft/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Threat Research Matrix](https://microsoft.github.io/Azure-Threat-Research-Matrix/)
 - [Azure TRE](https://microsoft.github.io/AzureTRE/latest/)
