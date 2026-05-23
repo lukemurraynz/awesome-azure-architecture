@@ -197,7 +197,7 @@ Official Microsoft feature and product announcement pages and what's new.
 Official Microsoft ebooks and whitepapers.
 
 - [Analyst reports, e-books, and white papers](https://azure.microsoft.com/resources/research/?WT.mc_id=AZ-MVP-5004796)
-- [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-500479)
+- [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf?WT.mc_id=AZ-MVP-5004796)
 - [Migration Linux to Microsoft Azure](https://info.microsoft.com/ww-landing-migrating-linux-to-microsoft-azure.html?WT.mc_id=AZ-MVP-5004796)
 - [New Zealand Cloud Region Customer Playbook](https://aka.ms/nzcloudregionplaybook?WT.mc_id=AZ-MVP-5004796)
 - [New Zealand Cloud Region Partner Playbook](http://aka.ms/nzplaybook?WT.mc_id=AZ-MVP-5004796)
