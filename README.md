@@ -356,6 +356,7 @@ Community blogs and articles.
 - [Azure - Considerations for Dev/Test "Sandboxes"](https://github.com/dazzlejim/AzureSandbox)
 - [Microsoft Azure - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Azure)
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
+- [Azure AI Landing Zone: The 2026 Reference Architecture](https://az365.ai/blog/azure-ai-landing-zone-reference-architecture-2026/)
 - [Azure Citadel](https://azurecitadel.com/)
 - [Cloud Design Patterns](https://luke.geek.nz/azure/cloud-design-patterns/)
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
