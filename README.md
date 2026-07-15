@@ -374,6 +374,7 @@ Community-created tools and repositories.
 - [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture)
 - [Azure Architecture - Solution Requirement Consideration Checklist](https://luke.geek.nz/azure/azure-architecture-solution-requirement-consideration-checklist/)
 - [Awesome Azure Local](https://github.com/schmittnieto/awesome-azure-local)
+- [Awesome Azure Virtual Desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 - [AzADServicePrincipalInsights](https://aka.ms/AzADServicePrincipalInsights)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [AzFeeds](https://azurefeeds.com/)
