@@ -395,6 +395,7 @@ Community-created tools and repositories.
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure Local Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
+- [AzureNamer - CAF compliant Azure resource name generator](https://azurenamingconventions.com/)
 - [Azure Network Latency Dashboard](https://latency.azure.cloud63.fr/)
 - [Azure permissions reference](https://azure.permissions.cloud/)
 - [Microsoft Portals](https://msportals.io/)
