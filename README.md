@@ -444,4 +444,4 @@ Community delivered and supported Discord.
 Community delivered and supported Slack.
 
 - [Ask an Azure Architect](https://askazure.io/)
-- [Kubernetes Community Slack - #kubernetes-azure channel](https://kubernetes.slack.com/messages/C5HJXTT9Q/)
+- [Kubernetes Community Slack - #kubernetes-azure channel](https://slack.k8s.io/)
