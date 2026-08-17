@@ -393,6 +393,7 @@ Community-created tools and repositories.
 - [GitHub Enterprise Server Backup On Azure](https://github.com/humanascode/GitHub-Enterprise-Server-Backup-Azure)
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
+- [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer)
 - [Azure Local Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
 - [AzureNamer - CAF compliant Azure resource name generator](https://azurenamingconventions.com/)
