@@ -362,7 +362,6 @@ Community blogs and articles.
 - [Azure Citadel](https://azurecitadel.com/)
 - [Cloud Design Patterns](https://luke.geek.nz/azure/cloud-design-patterns/)
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
-- [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 - [Luke Murray's Azure Blog](https://luke.geek.nz/)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
 - [Study Guide for Azure Architect exam AZ-305: Part 1 - Design a Governance Solution](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/)
