@@ -46,16 +46,17 @@ Official Microsoft Learn Learning paths.
 - [Automating Administration with PowerShell](https://learn.microsoft.com/training/courses/az-040t00?WT.mc_id=AZ-MVP-5004796)
 - [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions](https://learn.microsoft.com/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/?WT.mc_id=AZ-MVP-5004796)
 - [AZ-720: Azure Support Engineer for Connectivity Specialty](https://learn.microsoft.com/training/paths/azure-support-engineer-for-connectivity-specialty/?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Certifications](https://learn.microsoft.com/certifications/?WT.mc_id=AZ-MVP-5004796)
 - [Configuring and Operating Microsoft Azure Virtual Desktop](https://learn.microsoft.com/training/courses/az-140t00?WT.mc_id=AZ-MVP-5004796)
 - [Design an enterprise governance strategy](https://learn.microsoft.com/training/modules/enterprise-governance/?WT.mc_id=AZ-MVP-5004796)
 - [Designing and Implementing Platform Engineering](https://learn.microsoft.com/training/paths/designing-implementing-platform-engineering/?WT.mc_id=AZ-MVP-5004796)
 - [Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/training/courses/az-305t00?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure Fundamentals](https://learn.microsoft.com/training/courses/az-900t00?WT.mc_id=AZ-MVP-5004796)
 - [Get started with FinOps](https://learn.microsoft.com/en-gb/training/modules/get-started-with-finops/?WT.mc_id=AZ-MVP-5004796)
 - [Linux on Azure](https://learn.microsoft.com/learn/paths/azure-linux/?WT.mc_id=AZ-MVP-5004796)
-- [Plans on Microsoft Learn](https://learn.microsoft.com/training/support/plans?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Azure Fundamentals](https://learn.microsoft.com/training/courses/az-900t00?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Certifications](https://learn.microsoft.com/certifications/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Technical Quest](https://mtq.microsoft.com/?WT.mc_id=AZ-MVP-5004796)
+- [Plans on Microsoft Learn](https://learn.microsoft.com/training/support/plans?WT.mc_id=AZ-MVP-5004796)
+
 
 ### Official Docs
 
