@@ -413,7 +413,7 @@ Community-created tools and repositories.
 - [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz)
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
 - [Azure Virtual Network Capacity Planner](https://github.com/chunliu/vnet-capacity-planner)
-- [What Broke Today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services (including Azure) with real-time Telegram alerts.
+- [What Broke Today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services (including Azure) with real-time Telegram alerts
 
 ### Community Newsletter
 
