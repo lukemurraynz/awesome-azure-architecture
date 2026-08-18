@@ -84,7 +84,7 @@ Official Microsoft Learn, articles, blogs, and resources.
 - [Azure Databricks documentation](https://learn.microsoft.com/azure/databricks/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Developer CLI documentation](https://learn.microsoft.com/azure/developer/azure-developer-cli/?WT.mc_id=AZ-MVP-5004796)
 - [Azure DevOps documentation](https://learn.microsoft.com/azure/devops/?view=azure-devops&WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Azure for partners](https://partner.microsoft.com/en-us/partnership/azure-for-partners?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft AI Cloud Partner Program](https://learn.microsoft.com/partner-center/membership/mpn-overview?WT.mc_id=AZ-MVP-5004796)
 - [Azure Governance](https://learn.microsoft.com/azure/governance/?WT.mc_id=AZ-MVP-5004796)
 - [Azure landing zone design areas and conceptual architecture](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-areas?WT.mc_id=AZ-MVP-5004796)
 - [Azure landing zone implementation options](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/implementation-options?WT.mc_id=AZ-MVP-5004796)
@@ -139,7 +139,7 @@ Official Microsoft Learn, articles, blogs, and resources.
 - [Microsoft Investor Relations](https://www.microsoft.com/en-us/investor?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Learn MCP Server](https://learn.microsoft.com/training/support/mcp?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Learning Rooms](https://aka.ms/learningrooms?WT.mc_id=AZ-MVP-5004796)
-- [Microsoft Partner Resources](https://microsoft.github.io/PartnerResources/)
+- [Microsoft Partner Center](https://learn.microsoft.com/partner-center/enroll/overview?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Product/Licensing Terms](https://www.microsoft.com/licensing/terms/welcome/welcomepage?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center?WT.mc_id=AZ-MVP-5004796)
 - [Mission-critical baseline architecture on Azure](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-intro?WT.mc_id=AZ-MVP-5004796)
@@ -168,7 +168,7 @@ Official Microsoft videos.
 
 - [AI Show](https://learn.microsoft.com/shows/ai-show/?WT.mc_id=AZ-MVP-5004796)
 - [Ask The Expert](https://learn.microsoft.com/shows/ask-the-expert/?WT.mc_id=AZ-MVP-5004796)
-- [Cloud Training Events](https://www.microsoft.com/en-au/business/learn/cloud-training-events/?WT.mc_id=AZ-MVP-5004796)
+- [Microsoft Events](https://www.microsoft.com/en-us/events?WT.mc_id=AZ-MVP-5004796)
 - [Azure Developers](https://learn.microsoft.com/shows/azure-developers/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Essentials Show](https://learn.microsoft.com/shows/azure-essentials-show/?WT.mc_id=AZ-MVP-5004796)
 - [Exam Readiness Zone](https://learn.microsoft.com/shows/exam-readiness-zone/?WT.mc_id=AZ-MVP-5004796)
@@ -190,7 +190,7 @@ Official Microsoft feature and product announcement pages and what's new.
 
 - [Azure Architecture Blog](https://techcommunity.microsoft.com/category/azure/blog/azurearchitectureblog?WT.mc_id=AZ-MVP-5004796)
 - [Azure on X](https://twitter.com/Azure)
-- [Azure Updates](https://azure.microsoft.com/updates)
+- [Azure Updates](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-5004796)
 - [What's new in the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/get-started/whats-new?WT.mc_id=AZ-MVP-5004796)
 - [What's new in the Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/whats-new?WT.mc_id=AZ-MVP-5004796)
 
@@ -252,10 +252,10 @@ Official Microsoft open-source initiatives and repositories.
 - [Azure Well-Architected Review](https://learn.microsoft.com/assessments/azure-architecture-review/?WT.mc_id=AZ-MVP-5004796)
 - [Bicep subscription vending](https://github.com/Azure/bicep-lz-vending)
 - [Business Continuity Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/introducing-the-azure-business-continuity-guide/ba-p/3905424?WT.mc_id=AZ-MVP-5004796)
-- [Cloud Adoption Framework - Code samples and templates related to landing zone creation](https://github.com/microsoft/CloudAdoptionFramework/tree/main/ready)
+- [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework)
 - [Cloud Roles and Operations Management](https://github.com/Azure/cloud-rolesandops)
 - [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights)
-- [Cost Management labs](https://microsoft.github.io/finops-toolkit/labs/cost-management/?WT.mc_id=AZ-MVP-5004796)
+- [FinOps hubs](https://microsoft.github.io/finops-toolkit/hubs)
 - [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone)
 - [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme)
 - [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale)
@@ -266,7 +266,7 @@ Official Microsoft open-source initiatives and repositories.
 - [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [Microsoft Exam Simulator](https://aka.ms/examdemo/?WT.mc_id=AZ-MVP-5004796)
 - [Microsoft Kusto Detective Agency](https://detective.kusto.io/)
-- [Microsoft Sustainability Calculator](https://aka.ms/SustainabilityCalculator)
+- [View and analyze Azure emissions data](https://learn.microsoft.com/azure/carbon-optimization/view-emissions?WT.mc_id=AZ-MVP-5004796)
 - [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz)
 - [MSLab](https://github.com/microsoft/MSLab)
 - [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure)
@@ -338,7 +338,7 @@ Community podcasts.
 
 - [Azure & DevOps Podcast](https://open.spotify.com/show/4TDNfvJ6uuWiYxT8nvpddG?si=331542af0902437a)
 - [Ctrl+Alt+Azure](https://ctrlaltazure.com/)
-- [Azure Podcast](https://azpodcast.azurewebsites.net/)
+- [Azure Podcast](https://www.azpodcast.com/)
 - [Sarah Leans Podcast](https://open.spotify.com/show/34QAAvMLSYN09eOAu3j2b0)
 
 ### Community Books
@@ -362,7 +362,6 @@ Community blogs and articles.
 - [Azure Citadel](https://azurecitadel.com/)
 - [Cloud Design Patterns](https://luke.geek.nz/azure/cloud-design-patterns/)
 - [Deploy Azure Naming Tool into an Azure WebApp as a container](https://luke.geek.nz/azure/deploy-azure-naming-tool-into-an-azure-webapp-as-a-container/)
-- [How to write a design document for Azure](https://www.cloudelicious.net/how-to-write-a-design-document-for-azure/)
 - [Luke Murray's Azure Blog](https://luke.geek.nz/)
 - [Microsoft Azure Naming Conventions](https://luke.geek.nz/azure/microsoft-azure-naming-conventions/)
 - [Study Guide for Azure Architect exam AZ-305: Part 1 - Design a Governance Solution](https://thecloudmarathoner.com/index.php/2022/02/11/study-guide-for-az-305-designing-microsoft-azure-infrastructure-solutions-part-1-design-a-governance-solution/)
@@ -390,7 +389,6 @@ Community-created tools and repositories.
 - [CloudPrice](https://cloudprice.net/)
 - [cmd.ms - the Microsoft Cloud command line](https://cmd.ms/)
 - [Azure Composite SLA Estimator](https://slaestimator.aztoso.com/)
-- [Azure Design Stencils](https://github.com/David-Summers/Azure-Design)
 - [DevBox Accelerator](https://evilazaro.github.io/DevExp-DevBox/)
 - [Azure Digital Natives Checklist](https://azdnguide.com/)
 - [EntraOps](https://github.com/Cloud-Architekt/EntraOps)
@@ -405,16 +403,16 @@ Community-created tools and repositories.
 - [Azure permissions reference](https://azure.permissions.cloud/)
 - [Microsoft Portals](https://msportals.io/)
 - [Public Cloud Comparison](https://comparecloud.in/)
-- [Azure Serverless Community Library](https://www.serverlesslibrary.net/)
+- [Azure Serverless Community Library](https://github.com/Azure/ServerlessLibrary)
 - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer)
 - [Azure Services Periodic Table](https://azureperiodic.data3.com/)
 - [Azure Speed](https://www.azurespeed.com/Azure/Latency)
 - [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs)
 - [Terraform](https://www.terraform.io/)
-- [The Azure Kubernetes Service Checklist](https://www.the-aks-checklist.com/)
+- [The Azure Kubernetes Service Checklist](https://github.com/lgmorand/the-aks-checklist)
 - [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz)
 - [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns)
-- [Azure Virtual Network Capacity Planner](https://vnetplanner.chunliu.me/)
+- [Azure Virtual Network Capacity Planner](https://github.com/chunliu/vnet-capacity-planner)
 - [What Broke Today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services (including Azure) with real-time Telegram alerts
 
 ### Community Newsletter
@@ -445,4 +443,4 @@ Community delivered and supported Discord.
 Community delivered and supported Slack.
 
 - [Ask an Azure Architect](https://askazure.io/)
-- [Kubernetes Community Slack - #kubernetes-azure channel](https://kubernetes.slack.com/messages/C5HJXTT9Q/)
+- [Kubernetes Community Slack - #kubernetes-azure channel](https://slack.k8s.io/)
