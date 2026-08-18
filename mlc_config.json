@@ -23,11 +23,11 @@
       "pattern": "https://www.microsoft.com/licensing/terms/welcome/welcomepage?WT.mc_id=AZ-MVP-5004796"
    },
    {
-     "pattern": "https://www.packtpub.com/product/azure-architecture-explained/9781837634811"
-   },
-   {
-     "pattern": "https://www.packtpub.com/en-us/product/cloud-observability-with-azure-monitor-9781835881194"
-   },
+      "pattern": "https://www\\.packtpub\\.com/product/azure-architecture-explained/9781837634811"
+    },
+    {
+      "pattern": "https://www\\.packtpub\\.com/en-us/product/cloud-observability-with-azure-monitor-9781835881194"
+    },
    {
      "pattern": "https://stackoverflow.com/questions/tagged/azure"
    }
