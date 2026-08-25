@@ -1,9 +1,6 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "http://aka.ms/nzplaybook"
-    },
-        {
       "pattern": "https://news.microsoft.com/stories/microsoft-datacenter-tour"
     },
     {
@@ -16,9 +13,6 @@
       "pattern": "https://www.reddit.com/r/AZURE/"
     }
     ,
-    {
-      "pattern": "https://azurelocalsolutions.azure.microsoft.com/#/sizer"
-    },
    {
       "pattern": "https://www.microsoft.com/licensing/terms/welcome/welcomepage?WT.mc_id=AZ-MVP-5004796"
    },
