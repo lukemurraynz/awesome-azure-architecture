@@ -405,6 +405,7 @@ Community-created tools and repositories.
 - [cmd.ms - the Microsoft Cloud command line](https://cmd.ms/)
 - [DevBox Accelerator](https://evilazaro.github.io/DevExp-DevBox/)
 - [EntraOps](https://github.com/Cloud-Architekt/EntraOps)
+- [Farmer](https://compositionalit.github.io/farmer/) - F# DSL for repeatable Azure deployments that generates ARM templates.
 - [GitHub Enterprise Server Backup On Azure](https://github.com/humanascode/GitHub-Enterprise-Server-Backup-Azure)
 - [Microsoft Azure - Center for Internet Security](https://www.cisecurity.org/benchmark/azure/)
 - [Microsoft Portals](https://msportals.io/)
