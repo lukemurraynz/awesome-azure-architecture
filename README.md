@@ -404,6 +404,7 @@ Community-created tools and repositories.
 - [CloudPrice](https://cloudprice.net/)
 - [cmd.ms - the Microsoft Cloud command line](https://cmd.ms/)
 - [DevBox Accelerator](https://evilazaro.github.io/DevExp-DevBox/)
+- [Envilder](https://github.com/macalbert/envilder) - Resolves secrets from Azure Key Vault or AWS SSM Parameter Store into .env files or a running process (CLI and GitHub Action), or straight into app memory with SDKs for Node.js, Python and .NET.
 - [EntraOps](https://github.com/Cloud-Architekt/EntraOps)
 - [fairfax](https://github.com/intikhab49/fairfax) - Checks a GCC, GCC High, DoD or Azure Government plan against Microsoft's own feature availability tables, and finds commercial endpoints in code that belong to the wrong cloud.
 - [Farmer](https://compositionalit.github.io/farmer/) - F# DSL for repeatable Azure deployments that generates ARM templates.
