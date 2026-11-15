@@ -388,6 +388,7 @@ Community-created tools and repositories.
 - [Azure Governance Made Simple](https://book.azgovernance.com/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer)
+- [Azure Landing Zone CIDR Planner](https://www.agenorit.com.au/tools/azure-cidr-planner) - Interactive IPv4 address space and hub-spoke subnet planner for Azure Landing Zones with 5-IP reservation and gateway/firewall sizing rules.
 - [Azure Local Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs)
 - [Azure Network Latency Dashboard](https://latency.azure.cloud63.fr/)
 - [Azure permissions reference](https://azure.permissions.cloud/)
