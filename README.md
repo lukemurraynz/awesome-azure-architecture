@@ -356,6 +356,7 @@ Community books, both physical and ebooks.
 Community blogs and articles.
 
 - [Architecture in the Cloud](https://luke.geek.nz/azure/architecture-in-the-cloud/)
+- [AWS Bedrock vs Azure OpenAI for Enterprise](https://standardcompute.com/enterprise/compare/aws-bedrock-vs-azure-openai) - Amazon Bedrock and Azure OpenAI in Microsoft Foundry compared for company use: models, quotas, EU data processing, Claude in Europe, identity, budgets and contracts, each point linked to AWS and Microsoft documentation.
 - [AWS Secrets Manager vs Azure Key Vault vs GCP Secret Manager](https://devtoolhub.com/aws-secrets-manager-vs-azure-key-vault-vs-gcp-secret-manager/)
 - [Azure - Considerations for Dev/Test "Sandboxes"](https://github.com/dazzlejim/AzureSandbox)
 - [Azure AI Landing Zone: The 2026 Reference Architecture](https://az365.ai/blog/azure-ai-landing-zone-reference-architecture-2026/)
